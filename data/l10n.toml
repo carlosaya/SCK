@@ -1,61 +1,42 @@
 [articles]
-    read_more = "Read More"
-    words = "words"
-    readingtime = "minute read"
-    share = "Share this:"
-    comments = "Comments"
-
-# Linked older/newer posts at the bottom of each one
+comments = "Comments"
+read_more = "Read More"
+readingtime = "minute read"
+share = "Share this:"
+words = "words"
 [articles.linked_posts]
-    # older = "←"
-    # newer = "→"
-
-[search]
-    placeholder = "Search"
-
-[pagination]
-    # previous = "Previous"
-    # next = "Next"
-
-[profile]
-    # follow_button = "Like Us"
-    # tags = "Tags"
-    posts = "Posts"
-
-[page_not_found]
-    title = "Error 404 - Page NOT Found"
-    subtitle = "The content you're looking for doesn't seem to exist."
-
-[social]
-    facebook = "Follow us on Facebook"
-    twitter = "Follow us on Twitter"
-    RSS = "Subscribe to our feed"
-    googleplus = "Follow us on Google Plus"
-    pinterest = "Follow us on Pinterest"
-    linkedin = "Follow us on LinkedIn"
-    tumblr = "Follow us on Tumblr"
-    vimeo = "Follow us on Vimeo"
-    instagram = "Follow us on Instagram"
-    flickr = "Follow us on Flickr"
-    youtube = "Follow us on YouTube"
-    github = "Follow us on GitHub"
-
-[widgets.categories]
-    title = "Categories"
-
-[widgets.recent_articles]
-    title = "Recents"
-
-[widgets.tag_cloud]
-    title = "Tag cloud"
-    min_count = 2  # If you have many posts, then tag with just one topic makes the tag cloud cluttered. This variable can help reduce the clutter.
-
-[widgets.mailchimp]
-    title = "Subscribe via Email"
-    subscribe_text = "Enter your email address to subscribe to this blog and receive notifications of new posts by email."
-
-[widgets.tags]
-    title = "Tags"
-
 [authors]
-    Title = "Authors"
+Title = "Authors"
+[page_not_found]
+subtitle = "The content you're looking for doesn't seem to exist."
+title = "Error 404 - Page NOT Found"
+[pagination]
+[profile]
+posts = "Posts"
+[search]
+placeholder = "Search"
+[social]
+RSS = "Subscribe to our feed"
+facebook = "Follow us on Facebook"
+flickr = "Follow us on Flickr"
+github = "Follow us on GitHub"
+googleplus = "Follow us on Google Plus"
+instagram = "Follow us on Instagram"
+linkedin = "Follow us on LinkedIn"
+pinterest = "Follow us on Pinterest"
+tumblr = "Follow us on Tumblr"
+twitter = "Follow us on Twitter"
+vimeo = "Follow us on Vimeo"
+youtube = "Follow us on YouTube"
+[widgets.categories]
+title = "Categories"
+[widgets.mailchimp]
+subscribe_text = "Enter your email address to subscribe to this blog and receive notifications of new posts by email."
+title = "Subscribe via Email"
+[widgets.recent_articles]
+title = "Recents"
+[widgets.tag_cloud]
+min_count = 2
+title = "Tag cloud"
+[widgets.tags]
+title = "Tags"
