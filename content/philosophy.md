@@ -1,8 +1,9 @@
 +++
 categories = []
-date = "2018-03-18T06:19:50+00:00"
+date = "2018-03-18T06:19:50Z"
 tags = []
 title = "Philosophy"
+type = "page"
 [menu.main]
 weight = 1
 
