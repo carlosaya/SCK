@@ -3,6 +3,8 @@ categories = []
 date = "2018-03-18T06:19:50+00:00"
 tags = []
 title = "Philosophy"
+[menu.main]
+weight = 1
 
 +++
 # Samford Community Kindergarten Philosophy
