@@ -13,4 +13,5 @@ fields:
   hidden: false
   default: []
 pages:
+- about.md
 - philosophy.md
