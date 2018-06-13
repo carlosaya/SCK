@@ -3,6 +3,8 @@ categories = []
 date = "2018-06-13T11:22:30+00:00"
 tags = []
 title = "Fees"
+[menu.main]
+weight = 2
 
 +++
 From 2018 the fees will be:
