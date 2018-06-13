@@ -5,7 +5,7 @@ tags = []
 title = "Staff"
 
 +++
-## Education
+### Education
 
 Our program is delivered by an experienced, dedicated and enthusiastic team,who are committed to educating and caring for our children.
 
@@ -15,7 +15,7 @@ Our experienced Early Childhood Teachers are supported by fully qualified assis
 
 The ongoing professional development of all staff members is encouraged by the Kindergarten, through regular attendance at workshops, courses, conferences and online learning.
 
-**Staff of Samford Community Kindergarten 2018**
+### Staff of Samford Community Kindergarten 2018
 
 **Mrs Keria Newman** – Director/Nominated Supervisor/Teacher Blue Group
 
@@ -37,14 +37,14 @@ Certificate III in Education Support
 
 Our Administration office hours are Monday and Friday from 9.00am – 2.30pm
 
-## Transition to school
+### Transition to school
 
 Our teachers have well-established relationships with local schools, and are focused on preparing our children for an easy transition into the formal school environment.
 
-## Training
+### Training
 
 All staff hold a current Blue Card or Blue Card Exemption, Child Protection Training, Fire Safety Training, Child Care First Aid  including  yearly CPR training.
 
-## Teacher responsibilities
+### Teacher responsibilities
 
 Our staff are responsible for the day-to-day planning and implementation of the educational program, including working with children, parents and the community.
