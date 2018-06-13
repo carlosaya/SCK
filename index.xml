@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 13 Jun 2018 11:08:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jun 2018 11:09:40 +0000</lastBuildDate>
     
 	<atom:link href="https://carlosaya.github.io/SCK/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Staff</title>
+      <link>https://carlosaya.github.io/SCK/staff/</link>
+      <pubDate>Wed, 13 Jun 2018 11:09:40 +0000</pubDate>
+      
+      <guid>https://carlosaya.github.io/SCK/staff/</guid>
+      <description>Education Our program is delivered by an experienced, dedicated and enthusiastic team,who are committed to educating and caring for our children.
+All staff have completed early childhood education, including child development, child psychology, teaching strategies and observation skills.
+Our experienced Early Childhood Teachers are supported by fully qualified assistants, in order to maximise learning opportunities and to provide a supportive and nurturing environment.
+The ongoing professional development of all staff members is encouraged by the Kindergarten, through regular attendance at workshops, courses, conferences and online learning.</description>
+    </item>
     
     <item>
       <title>About</title>
