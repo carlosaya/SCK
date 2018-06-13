@@ -9,15 +9,6 @@ title = "Samford Kindergarten"
 [Permalinks]
 blog = "/blog/:year/:month/:day/:filename/"
 [[menu.main]]
-name = "Contact"
-url = "/contact/"
-weight = 7
-[[menu.main]]
-identifier = "faq"
-name = "FAQ"
-url = "/faq/"
-weight = 5
-[[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
