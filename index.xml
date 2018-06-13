@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 18 Mar 2018 06:19:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jun 2018 11:08:31 +0000</lastBuildDate>
     
 	<atom:link href="https://carlosaya.github.io/SCK/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://carlosaya.github.io/SCK/about/</link>
+      <pubDate>Wed, 13 Jun 2018 11:08:31 +0000</pubDate>
+      
+      <guid>https://carlosaya.github.io/SCK/about/</guid>
+      <description>Samford Kindergarten has an enviable reputation for the quality of teaching, facilities and resources.
+Children bring with them a rich variety of cultural and social backgrounds and experiences. We recognise and appreciate the individuality of each child and family, and observe a policy of acceptance of race, creed, gender, disability, class or culture.
+Children are encouraged to play, share and work alongside a consistent group of peers in a supportive and encouraging environment, which allows them to learn at their own pace.</description>
+    </item>
     
     <item>
       <title>Philosophy</title>
