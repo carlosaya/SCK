@@ -14,6 +14,7 @@ weight = 4
 | Mowing Levy | $65 annually (non-refundable) |
 |   |   |
 
+###
 
 _Fees are due no later than 2:30pm on Friday of week 2 in each term._
 
