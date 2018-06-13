@@ -7,7 +7,7 @@ title = "Fees"
 weight = 4
 
 +++
-| From 2018 the fees will be \   | $850 / term |
+| From 2018 the fees will be $850 | \ per term |
 | --- | --- |
 | Membership fee | $5 per family annually |
 | Working Bee levy | $220 annually (refundable) |
