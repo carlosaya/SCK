@@ -7,8 +7,6 @@ title = "Fees"
 weight = 4
 
 +++
-From 2018 the fees will be:
-
 | Fees |  |
 | --- | --- |
 | From 2018 the fees will be: | $850 / term |
