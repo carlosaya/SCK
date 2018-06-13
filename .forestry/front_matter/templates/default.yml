@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: []
 pages:
+- fees.md
 - staff.md
 - about.md
 - philosophy.md
