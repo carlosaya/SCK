@@ -13,5 +13,6 @@ fields:
   hidden: false
   default: []
 pages:
+- staff.md
 - about.md
 - philosophy.md
