@@ -8,12 +8,13 @@ weight = 2
 
 +++
 From 2018 the fees will be:
-| Fees | per school term |
-| --- | --- |
-| From 2018 the fees will be: | $850 |
-| Membership fee | $5 per family per year |
-| Working bee levy | $220 per year\* (refundable) |
-| Mowing levy | $65 per year (non-refundable) 
+
+| Fees |  |
+|-----------------------------|-------------------------------|
+| From 2018 the fees will be: | $850 / term |
+| Membership fee | $5 per family annually |
+| Working Bee levy | $220 annually (refundable) |
+| Mowing Levy | $65 annually (non-refundable) |
 
 \* Four working bees are held during the year, one in each term.  To receive the refund of your levy at the completion of the kindy year your family must complete three out of the four working bees, attending for a minimum of 2 hours at each of the three working bees.  If you are unable to attend a working bee then another job around the kindy deemed to be significant enough to replace the 2 hours at the working bee must be completed within the same term that the working bee was missed.  There are not always enough make-up jobs, so attending the working bees is the best option.
 
