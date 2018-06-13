@@ -4,8 +4,13 @@ title = "Contact"
 type = "page"
 
 +++
-# We are here to help you
+# Samford Community Kindergarten Inc
+ABN 28 734 750 875
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+| Phone    | (07) 3289 1759                                                                |
+|----------|-------------------------------------------------------------------------------|
+| Email    | admin@samfordkindergarten.com.au                                              |
+| Facebook | [Like Us on Facebook!](https://www.facebook.com/SamfordCommunityKindergarten) |
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+17 Camp Mountain Road, Samford Queensland 4520
+PO Box 62, Samford Queensland 4520
