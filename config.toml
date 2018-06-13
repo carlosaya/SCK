@@ -1,7 +1,6 @@
 baseurl = "https://carlosaya.github.io/SCK/"
 defaultContentLanguage = "en"
 googleAnalytics = ""
-googleMapsApiKey = "123434"
 languageCode = "en-us"
 paginate = 10
 theme = "hugo-universal-theme"
@@ -46,6 +45,7 @@ logo = "img/logo.png"
 longitude = "152.888002"
 style = "default"
 viewmorepostlink = "/blog/"
+googleMapsApiKey = "123434"
 [params.carousel]
 enable = true
 [params.clients]
