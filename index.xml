@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 13 Jun 2018 11:09:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jun 2018 11:22:30 +0000</lastBuildDate>
     
 	<atom:link href="https://carlosaya.github.io/SCK/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fees</title>
+      <link>https://carlosaya.github.io/SCK/fees/</link>
+      <pubDate>Wed, 13 Jun 2018 11:22:30 +0000</pubDate>
+      
+      <guid>https://carlosaya.github.io/SCK/fees/</guid>
+      <description>From 2018 the fees will be: | Fees | per school term | | &amp;mdash; | &amp;mdash; | | From 2018 the fees will be: | $850 | | Membership fee | $5 per family per year | | Working bee levy | $220 per year* (refundable) | | Mowing levy | $65 per year (non-refundable)
+* Four working bees are held during the year, one in each term. To receive the refund of your levy at the completion of the kindy year your family must complete three out of the four working bees, attending for a minimum of 2 hours at each of the three working bees.</description>
+    </item>
     
     <item>
       <title>Staff</title>
