@@ -12,6 +12,7 @@ weight = 4
 | Membership fee | $5 per family annually |
 | Working Bee levy | $220 annually (refundable) |
 | Mowing Levy | $65 annually (non-refundable) |
+| | |
 
 
 _Fees are due no later than 2:30pm on Friday of week 2 in each term._
