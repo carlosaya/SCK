@@ -1,6 +1,7 @@
 baseurl = "https://carlosaya.github.io/SCK/"
 defaultContentLanguage = "en"
 googleAnalytics = ""
+googleMapsApiKey = "123434"
 languageCode = "en-us"
 paginate = 10
 theme = "hugo-universal-theme"
