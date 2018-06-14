@@ -53,7 +53,7 @@ title = "From our blog"
 enable = true
 icon = "fa fa-file-code-o"
 link_text = "View Our Fees"
-link_url = "/fees/"
+link_url = "./fees/"
 subtitle = "From 2018 our fees will be $850 per term.  Fees are due no later than 2:30pm on Friday of week 2 in each term.  For full details click the link below."
 title = "Enrollment Fees"
 [params.testimonials]
