@@ -44,7 +44,7 @@ enable = true
 subtitle = ""
 title = "Our Clients"
 [params.features]
-enable = true
+enable = false
 [params.recent_posts]
 enable = true
 subtitle = "There's always something fun and interesting for your little ones to experience at Samford Community Kindergarten.  Please check back here regularly to see what's happening in and around the Kindy!"
