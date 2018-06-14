@@ -52,10 +52,10 @@ title = "From our blog"
 [params.see_more]
 enable = true
 icon = "fa fa-file-code-o"
-link_text = "Check other homepages"
-link_url = "#"
-subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-title = "Do you want to see more?"
+link_text = "View Our Fees"
+link_url = "/fees/"
+subtitle = "From 2018 our fees will be $850 per term.  Fees are due no later than 2:30pm on Friday of week 2 in each term.  For full details click the link below."
+title = "Enrollment Fees"
 [params.testimonials]
 enable = true
 subtitle = "Our program is delivered by an experienced, dedicated and enthusiastic team,who are committed to educating and caring for our children.  All staff have completed early childhood education, including child development, child psychology, teaching strategies and observation skills.\n\nOur experienced Early Childhood Teachers are supported by fully qualified assistants in order to maximise learning opportunities and to provide a supportive and nurturing environment.\n\nThe ongoing professional development of all staff members is encouraged by the Kindergarten, through regular attendance at workshops, courses, conferences and online learning."
