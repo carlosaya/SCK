@@ -25,7 +25,7 @@ weight = 1
 [params]
 about_us = "<p>At Samford, we believe that childhood is a unique time of life to be valued and enjoyed. Children develop their sense of belonging by celebrating the richness of the history of Samford Kindergarten and the connections the centre has with community past, present and future.</p>"
 address = "<p><strong>Samford Community Kindergarten</strong>\n        <br>17 Camp Mountain Road\n        <br>Samford Village, Queensland\n        <br>4520\n      </p>\n      "
-author = "DevCows"
+author = "Samford Community Kindergarten"
 copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
 date_format = "January 2, 2006"
 defaultdescription = "Site template made by devcows using hugo"
