@@ -36,7 +36,7 @@ latitude = "-27.377481"
 logo = "img/logo.png"
 longitude = "152.888002"
 style = "default"
-viewmorepostlink = "/blog/"
+viewmorepostlink = "./blog/"
 [params.carousel]
 enable = true
 [params.clients]
