@@ -14,7 +14,7 @@ Blue group	Thursday and Friday and alternating Wednesday
 Program times	8.25am-2.30pm
 
 ### Term dates
-| Term | Dates |
+| Term            | Dates |
 | --- | ---: |
 | Term 1, 2018 | 22 January - 29 March |
 | Term 2, 2018 | 16 April - 29 June |
