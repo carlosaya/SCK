@@ -8,10 +8,12 @@ title = "Program"
 +++
 There are currently 2 groups, each attending 5 days per fortnight:
 
-Yellow group	Monday, Tuesday and alternating Wednesday  
-Blue group	Thursday and Friday and alternating Wednesday
+| Group | Days |
+| --- | --- |
+| Yellow group | 	Monday, Tuesday and alternating Wednesday |  
+| Blue group	| 	Thursday and Friday and alternating Wednesday |
 
-Program times	8.25am-2.30pm
+# Program times	8.25am-2.30pm
 
 ### Term dates
 | Term..................... | Dates |
