@@ -4,8 +4,6 @@ date = "2018-03-18T06:19:50Z"
 tags = []
 title = "Philosophy"
 type = "page"
-[menu.main]
-weight = 2
 
 +++
 # Samford Community Kindergarten Philosophy
