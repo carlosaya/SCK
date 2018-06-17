@@ -51,7 +51,7 @@ subtitle = "There's always something fun and interesting for your little ones to
 title = "From our blog"
 [params.see_more]
 enable = true
-icon = "fa fa-file-code-o"
+icon = "fa fa-child"
 link_text = "Sign Me Up!"
 link_url = "./waiting-list/index.html"
 subtitle = "Your child may be placed on the waiting list from the 1st of July of the year following their birth. Children are enrolled at the Centre in order of placement on the waiting list. As waiting lists are usually long at Samford Kindy, we advise placing children’s names on the list as soon as possible."
