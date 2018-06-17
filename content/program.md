@@ -6,6 +6,7 @@ tags = []
 title = "Program"
 
 +++
+### Groups
 There are currently 2 groups, each attending 5 days per fortnight:
 
 | Group | Days |
