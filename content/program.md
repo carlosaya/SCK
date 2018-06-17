@@ -14,7 +14,7 @@ There are currently 2 groups, each attending 5 days per fortnight:
 | Blue group | Thursday and Friday and alternating Wednesday |
 
 **Program times	8.25am-2.30pm**
-
+**	**
 ### Term dates
 
 | Term..................... | Dates |
@@ -24,7 +24,7 @@ There are currently 2 groups, each attending 5 days per fortnight:
 | Term 3, 2018 | 16 July - 21 September |
 | Term 4, 2018 | 8 October - 14 December |
 
-### 
+**	**
 
 ### Learning framework
 
