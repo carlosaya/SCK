@@ -5,7 +5,7 @@ tags = []
 title = "Fees"
 type = "page"
 [menu.main]
-weight = 7
+weight = 6
 
 +++
 | From 2018 the fees will be $850 | /term |

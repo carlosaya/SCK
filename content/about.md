@@ -5,7 +5,7 @@ tags = []
 title = "About"
 type = "page"
 [menu.main]
-weight = 6
+weight = 8
 
 +++
 Samford Kindergarten has an enviable reputation for the quality of teaching, facilities and resources.

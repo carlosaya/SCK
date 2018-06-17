@@ -5,7 +5,7 @@ title = "FAQ"
 type = "page"
 [menu.main]
 identifier = "faq"
-weight = 5
+weight = 7
 
 +++
 **Do you have a siblings policy?**
