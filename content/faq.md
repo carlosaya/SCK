@@ -3,6 +3,8 @@ description = "Frequently asked questions"
 keywords = ["FAQ"]
 title = "FAQ"
 type = "page"
+[menu.main]
+weight = 6
 
 +++
 **Do you have a siblings policy?**

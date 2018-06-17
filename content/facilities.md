@@ -3,6 +3,8 @@ categories = []
 date = "2018-06-17T11:50:09+00:00"
 tags = []
 title = "Facilities"
+[menu.main]
+weight = 3
 
 +++
 Samford Kindergarten boasts an enviable range of resources and facilities, including stimulating indoor and outdoor environments. Our library meets children’s desires to curl-up and read, and our creative program encourages children to explore their creative tendencies.
