@@ -30,10 +30,11 @@ There are currently 2 groups, each attending 5 days per fortnight:
 
 | Framework | Link |
 | --- | --- |
-| National Quality Framework | Early Years Learning Framework (EYLF) |
-| C&K Curriculum | Building waterfalls |
+| National Quality Framework | [Early Years Learning Framework (EYLF)](http://deewr.gov.au/early-years-learning-framework) |
+| C&K Curriculum | [Building waterfalls](http://www.candk.asn.au/ck-building-waterfalls) |
 |  |  |
 
 ### 
+**	**
 
 Outside kindy hours care is not currently offered.
