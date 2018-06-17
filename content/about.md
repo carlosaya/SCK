@@ -1,10 +1,11 @@
 +++
 categories = []
-date = "2018-06-13T11:08:31+00:00"
+date = "2018-06-13T11:08:31Z"
 tags = []
 title = "About"
+type = "page"
 [menu.main]
-weight = 5
+weight = 6
 
 +++
 Samford Kindergarten has an enviable reputation for the quality of teaching, facilities and resources.

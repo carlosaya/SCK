@@ -1,8 +1,9 @@
 +++
 categories = []
-date = "2018-06-13T11:09:40+00:00"
+date = "2018-06-13T11:09:40Z"
 tags = []
 title = "Staff"
+type = "page"
 [menu.main]
 weight = 3
 

@@ -13,15 +13,15 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.topbar]]
-name = "Email"
-pre = "<i class='fa fa-2x fa-envelope'></i>"
-url = "mailto:admin@samfordkindergarten.com.au"
-weight = 2
-[[menu.topbar]]
 name = "SamfordKindergarten"
 pre = "<i class='fa fa-2x fa-facebook'></i>"
 url = "http://facebook.com/SamfordCommunityKindergarten"
 weight = 1
+[[menu.topbar]]
+name = "Email"
+pre = "<i class='fa fa-2x fa-envelope'></i>"
+url = "mailto:admin@samfordkindergarten.com.au"
+weight = 2
 [params]
 about_us = "<p>We believe that childhood is a unique time of life to be valued and enjoyed. Children develop their sense of belonging by celebrating the richness of the history of Samford Kindergarten and the connections the centre has with community past, present and future.</p>"
 address = "<p><strong>Samford Community Kindergarten</strong>\n        <br>17 Camp Mountain Road\n        <br>Samford Village, Queensland\n        <br>4520<br><br>\n      </p>"
