@@ -15,7 +15,7 @@ Program times	8.25am-2.30pm
 
 ### Term dates
 | Term | Dates |
-| --- | --- |
+| --- | ---: |
 | Term 1, 2018 | 22 January - 29 March |
 | Term 2, 2018 | 16 April - 29 June |
 | Term 3, 2018 | 16 July - 21 September |
