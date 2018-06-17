@@ -2,8 +2,6 @@
 id = "contact"
 title = "Contact"
 type = "page"
-[menu.main]
-weight = 9
 
 +++
 # Samford Community Kindergarten Inc
