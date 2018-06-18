@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/facilities/</loc>
+    <lastmod>2018-06-17T11:50:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/program/</loc>
+    <lastmod>2018-06-17T11:27:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/fees/</loc>
+    <lastmod>2018-06-13T11:22:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/staff/</loc>
+    <lastmod>2018-06-13T11:09:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/about/</loc>
+    <lastmod>2018-06-13T11:08:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/philosophy/</loc>
+    <lastmod>2018-03-18T06:19:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/blog/2015/10/10/migrate-from-jekyll/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/blog/2015/10/02/linked-post/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/blog/2015/06/24/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/blog/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/tags/golang/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/tags/hugo/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/tags/ipsum/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/categories/lorem/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/tags/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/categories/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/</loc>
+    <lastmod>2018-06-17T11:50:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/categories/starting/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/tags/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://carlosaya.github.io/SCK/tags/theme/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
