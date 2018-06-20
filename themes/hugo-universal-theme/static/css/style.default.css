@@ -1179,7 +1179,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 @media (min-width: 992px) {
   .home-carousel .right {
-    text-align: right;
+    text-align: center;
   }
 }
 .home-carousel h1,
