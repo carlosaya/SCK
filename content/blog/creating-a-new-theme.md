@@ -2,6 +2,7 @@
 banner = "img/banners/banner-1.jpg"
 categories = ["starting"]
 date = "2015-06-24T13:50:46+02:00"
+draft = true
 tags = ["theme"]
 title = "Creating a new theme"
 
