@@ -1,8 +1,8 @@
 +++
 banner = "/uploads/2018/06/20/c-and-k-open-day[1].png"
-categories = ["lorem"]
-date = "2015-10-10T13:07:31+02:00"
-tags = ["ipsum"]
+categories = []
+date = "2018-04-19T11:07:31+00:00"
+tags = []
 title = "Kindy Open Day"
 
 +++
