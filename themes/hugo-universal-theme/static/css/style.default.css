@@ -1726,10 +1726,21 @@ fieldset[disabled] .btn-template-primary.active {
   border: none;
 }
 #heading-breadcrumbs {
-  background: url('../img/texture.jpg') center center repeat;
+  background: url('../img/photogrid.jpg') center center repeat;
   padding: 20px 0;
   margin-bottom: 40px;
 }
+#heading-breadcrumbs .dark-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #38a7bb;
+  opacity: 0.6;
+  filter: alpha(opacity=90);
+}
+
 #heading-breadcrumbs.no-mb {
   margin-bottom: 0;
 }
