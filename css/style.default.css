@@ -1726,7 +1726,7 @@ fieldset[disabled] .btn-template-primary.active {
   border: none;
 }
 #heading-breadcrumbs {
-  background: url('../img/photogrid.jpg') center center repeat;
+  background: url('../img/photogrid-strip.jpg') center center repeat;
   padding: 20px 0;
   margin-bottom: 40px;
 }
