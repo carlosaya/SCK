@@ -1179,7 +1179,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 @media (min-width: 992px) {
   .home-carousel .right {
-    text-align: center;
+    text-align: left;
   }
 }
 .home-carousel h1,
@@ -1766,7 +1766,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 60px 0;
 }
 .bar.background-pentagon {
-  background: url('../img/texture.jpg') center center repeat;
+  /* background: url('../img/texture.jpg') center center repeat; */
   border-top: solid 1px #999999;
   border-bottom: solid 1px #999999;
 }
