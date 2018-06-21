@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2018, Samford Community Kindergarten; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 17 Jun 2018 11:50:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jun 2018 08:52:14 +0000</lastBuildDate>
     
 	<atom:link href="https://carlosaya.github.io/SCK/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Enrol</title>
+      <link>https://carlosaya.github.io/SCK/enrol/</link>
+      <pubDate>Thu, 21 Jun 2018 08:52:14 +0000</pubDate>
+      
+      <guid>https://carlosaya.github.io/SCK/enrol/</guid>
+      <description>Waiting lists Apply here (online) for 2018/2019/2020/2021/2022 waiting lists.
+Waiting list places are determined by receipt of both the form and fee (whether this is completed online or in person). The $30 non-refundable waiting list fee must be received by Samford Community Kindergarten within 3 working days of the form being submitted, otherwise your submission is unfortunately invalid.
+To place your child’s name on the waiting list, parents are asked to complete the online waiting list form and pay a non-refundable waiting list fee of $30.</description>
+    </item>
     
     <item>
       <title>Facilities</title>
