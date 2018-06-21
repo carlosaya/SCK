@@ -41,4 +41,4 @@ As educators, we:
 * foster a collaborative approach where all staff are respected as individuals and as a valuable part of the team;
 * promote and value ongoing professional development and reflective practice, and our commitment to continuous improvement.
 
-Review date March 2018
+Review date March 2019
