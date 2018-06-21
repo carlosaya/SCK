@@ -13,5 +13,6 @@ fields:
   hidden: false
   default: []
 pages:
+- content/enrol.md
 - content/facilities.md
 - content/program.md
