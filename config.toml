@@ -58,7 +58,7 @@ subtitle = "Your child may be placed on the waiting list from the 1st of July of
 title = "Enrol Now"
 [params.testimonials]
 enable = true
-subtitle = "<table><tr><td style=\"padding: 15px; background-color: #ffffffdd;\"><div class=\"text\">Our program is delivered by an experienced, dedicated and enthusiastic team,who are committed to educating and caring for our children.  All staff have completed early childhood education, including child development, child psychology, teaching strategies and observation skills.\n\nOur experienced Early Childhood Teachers are supported by fully qualified assistants in order to maximise learning opportunities and to provide a supportive and nurturing environment.\n\nThe ongoing professional development of all staff members is encouraged by the Kindergarten, through regular attendance at workshops, courses, conferences and online learning.</div></td></tr></table>"
+subtitle = "<table><tr><td style=\"padding: 15px; background-color: #ffffffdd;\"><div class=\"text\">Using the Queensland Kindergarten Guidelines as a basis for programming, children will engage in a stimulating, engaging, challenging and relevant program focusing on their individual needs and abilities.<img src=\"img/accreditation-890.png\"><br></div></td></tr></table>"
 title = "Our Staff"
 [params.topbar]
 enable = false
