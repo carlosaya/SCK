@@ -27,7 +27,7 @@ By completing the waiting list form and submitting the booking fee payment you a
 
 Children must be at least 4 years old by 30 June in the year they are enrolled in an approved kindergarten program.
 
-**Immunisation Policy**                                                                                                       
+**Immunisation Policy**
 
 On 11th May 2017  the Samford Community Kindergarten Committee  conducted a vote of the current 2017 parents for the introduction of the Immunisation Policy. The results of this vote were unanimously for the introduction of the Immunisation Policy. This policy will be effective as of 1 January 2018.                                                                                                                                                                                                                 2017 Executive Committee Samford Community Kindergarten
 
@@ -37,9 +37,9 @@ If your child is of eligible age, our service may be entitle to claim QKFS fundi
 
 Please be advised that Samford Community Kindergarten does not have a sibling policy.
 
-| --- | --- | --- |
+
 | Child born between: | Attends Kindy | Place on waiting list from: |
-|  |  |  |
+| --- | --- | --- |
 | 1 July 2013 to 30 June 2014 | 2018 | Apply here |
 | 1 July 2014 to 30 June 2015 | 2019 | Apply here |
 | 1 July 2015 to 30 June 2016 | 2020 | Apply here |
