@@ -2180,8 +2180,8 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 20px;
 }
 
-#blog-post .img {
-  width: 100%;
+#blog-post #post-content .img {
+  max-width: 100%;
 }
 
 #blog-post .comment {
