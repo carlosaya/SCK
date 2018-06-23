@@ -2818,6 +2818,18 @@ fieldset[disabled] .btn-template-primary.active {
   border: solid 1px #ddd;
   border-top: none;
 }
+ 
+#content table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#content th, #content td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
 /* navbar */
 .navbar {
   position: relative;
