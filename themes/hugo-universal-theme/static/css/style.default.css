@@ -2821,7 +2821,7 @@ fieldset[disabled] .btn-template-primary.active {
  
 #content table {
   border-collapse: collapse;
-  width: 100%;
+  max-width: 100%;
 }
 
 #content th, #content td {
