@@ -29,7 +29,7 @@ Children must be at least 4 years old by 30 June in the year they are enrolled i
 
 **Immunisation Policy**
 
-On 11th May 2017  the Samford Community Kindergarten Committee  conducted a vote of the current 2017 parents for the introduction of the Immunisation Policy. The results of this vote were unanimously for the introduction of the Immunisation Policy. This policy will be effective as of 1 January 2018.                                                                                                                                                                                                                 2017 Executive Committee Samford Community Kindergarten
+On 11th May 2017  the Samford Community Kindergarten Committee  conducted a vote of the current 2017 parents for the introduction of the Immunisation Policy. The results of this vote were unanimously for the introduction of the Immunisation Policy. This policy will be effective as of 1 January 2018.
 
 **Queensland Kindergarten Funding Scheme (QKFS)**
 
