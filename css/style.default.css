@@ -2180,7 +2180,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 20px;
 }
 
-#blog-post #post-content .img {
+#blog-post #post-content img {
   max-width: 100%;
 }
 
@@ -3172,6 +3172,11 @@ body {
   line-height: 1.42857143;
   color: #555555;
 }
+
+.img {
+  max-width: 100%;
+}
+
 a {
   color: #7fb79e;
   text-decoration: none;
