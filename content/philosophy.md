@@ -10,7 +10,7 @@ weight = 1
 +++
 # Samford Community Kindergarten Philosophy
 
-![img_0840-1](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_0840-1-225x300.jpg =162x213)![](https://www.samfordkindergarten.com.au/wp-content/uploads/P1040678-300x225.jpg =186x142)![](https://www.samfordkindergarten.com.au/wp-content/uploads/P1040650-300x225.jpg =195x149)![](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_5608-300x225.jpg =184x140)
+![img_0840-1](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_0840-1-225x300.jpg)![](https://www.samfordkindergarten.com.au/wp-content/uploads/P1040678-300x225.jpg)![](https://www.samfordkindergarten.com.au/wp-content/uploads/P1040650-300x225.jpg)![](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_5608-300x225.jpg)
 
 “IT TAKES A VILLAGE TO RAISE A CHILD”
 
