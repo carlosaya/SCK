@@ -2832,6 +2832,17 @@ fieldset[disabled] .btn-template-primary.active {
   border-bottom: 1px solid #ddd;
 }
 
+#content img {
+  border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    height: 200px;
+}
+
+#content img:hover {
+  box-shadow: 0 0 10px 1px #7fb79eff;
+}
+
 /* navbar */
 .navbar {
   position: relative;
