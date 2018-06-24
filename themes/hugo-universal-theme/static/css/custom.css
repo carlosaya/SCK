@@ -5,6 +5,12 @@
   max-height: 200px;
 }
 
+.box-image-text .image img {
+  min-height: 200px;
+  max-height: 200px;
+  vertical-align: middle;
+}
+
 .box-simple {
   min-height: 230px;
 }
