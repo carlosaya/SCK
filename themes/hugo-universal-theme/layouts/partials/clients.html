@@ -12,6 +12,7 @@
                 <p class="lead">
                   {{ .Site.Params.clients.subtitle }}
                 </p>
+                <table><tr><td>
                 <ul class="owl-carousel customers">
                     {{ range .Site.Data.clients }}
                     <li class="item" title="{{ .name }}">
@@ -25,6 +26,7 @@
                     </li>
                     {{ end }}
                 </ul>
+            </td></tr></table>
                 <!-- /.owl-carousel -->
             </center>
             </div>
