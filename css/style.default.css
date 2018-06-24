@@ -2834,9 +2834,10 @@ fieldset[disabled] .btn-template-primary.active {
 
 #content img {
   border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    height: 200px;
+  border-radius: 4px;
+  padding: 5px;
+  height: 200px;
+  margin: 3px;
 }
 
 #content img:hover {
