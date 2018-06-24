@@ -2844,6 +2844,19 @@ fieldset[disabled] .btn-template-primary.active {
   box-shadow: 0 0 10px 1px #7fb79eff;
 }
 
+#content .blog-entries img {
+  border: 0px;
+  height: auto;
+  border-radius: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+
+#content .blog-entries img:hover {
+box-shadow: none;
+}
+
+
 /* navbar */
 .navbar {
   position: relative;
