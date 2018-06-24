@@ -8,6 +8,8 @@ type = "page"
 weight = 7
 
 +++
+[![IMG_3308](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_33081-300x225.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_33081.jpg)![IMG_5366](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_5366-225x300.jpg)[![IMG_3319](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_3319-300x225.jpg)![IMG_7989](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7989-225x300.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_3319.jpg)
+
 Samford Kindergarten has an enviable reputation for the quality of teaching, facilities and resources.
 
 Children bring with them a rich variety of cultural and social backgrounds and experiences.  We recognise and appreciate the individuality of each child and family, and observe a policy of acceptance of race, creed, gender, disability, class or culture.
