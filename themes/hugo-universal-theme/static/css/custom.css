@@ -6,9 +6,9 @@
 }
 
 .box-image-text .image img {
-  min-height: 200px;
   max-height: 200px;
-  vertical-align: middle;
+  position: absolute;
+  top: 50%;
 }
 
 .box-simple {
