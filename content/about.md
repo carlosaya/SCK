@@ -8,6 +8,8 @@ type = "page"
 weight = 7
 
 +++
+[![IMG](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_33081-300x225.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_33081.jpg)![IMG](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_5366-225x300.jpg)[![IMG](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_3319-300x225.jpg)![IMG](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7989-225x300.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_3319.jpg)
+
 Samford Kindergarten has an enviable reputation for the quality of teaching, facilities and resources.
 
 Children bring with them a rich variety of cultural and social backgrounds and experiences.  We recognise and appreciate the individuality of each child and family, and observe a policy of acceptance of race, creed, gender, disability, class or culture.
@@ -47,3 +49,5 @@ The Pine Rivers Shire Council granted the current block of land in Camp Mountain
 ### 1984
 
 With the kind assistance of [Samford Rotary Club](http://www.samfordrotary.org.au/), Samford Community Kindergarten was officially opened in January.
+
+### [![IMG_1125](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_1125-225x300.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_1125.jpg)[![IMG_1427](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_1427-300x225.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_1427.jpg)![IMG_7813](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7813-300x225.jpg)![IMG_3738](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_3738-300x225.jpg)[![IMG_1616](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_1616-300x225.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_1616.jpg)![IMG_6589](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_6589-300x225.jpg)[![IMG_6827](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_6827-300x225.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_6827.jpg)[![IMG_7343](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7343-225x300.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7343.jpg)[![IMG_7503](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7503-225x300.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7503.jpg)[![IMG_8030](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_8030-225x300.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_8030.jpg)

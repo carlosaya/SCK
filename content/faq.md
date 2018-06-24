@@ -7,6 +7,8 @@ type = "page"
 weight = 6
 
 +++
+## [![IMG_0488](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_0488-300x225.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_0488.jpg)[![IMG_4786](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_4786-200x300.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_4786.jpg)[![IMG_7397](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7397-225x300.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7397.jpg)
+
 **Do you have a siblings policy?**
 
 After much discussion it was decided that it would be fairer to all families not to have a siblings policy.

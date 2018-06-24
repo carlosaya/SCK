@@ -10,6 +10,8 @@ weight = 1
 +++
 # Samford Community Kindergarten Philosophy
 
+![img_0840-1](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_0840-1-225x300.jpg)![](https://www.samfordkindergarten.com.au/wp-content/uploads/P1040678-300x225.jpg)![](https://www.samfordkindergarten.com.au/wp-content/uploads/P1040650-300x225.jpg)![](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_5608-300x225.jpg)
+
 “IT TAKES A VILLAGE TO RAISE A CHILD”
 
 At Samford, we believe that childhood is a unique time of life to be valued and enjoyed. Children develop their sense of belonging by celebrating the richness of the history of Samford Kindergarten and the connections the centre has with community past, present and future.
