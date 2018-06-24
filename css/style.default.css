@@ -2832,7 +2832,7 @@ fieldset[disabled] .btn-template-primary.active {
   border-bottom: 1px solid #ddd;
 }
 
-#content img {
+#content .container img {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
