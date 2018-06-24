@@ -40,9 +40,9 @@ viewmorepostlink = "./blog/"
 [params.carousel]
 enable = true
 [params.clients]
-enable = false
+enable = true
 subtitle = ""
-title = "Our Clients"
+title = "Thank You"
 [params.features]
 enable = false
 [params.recent_posts]
