@@ -5,7 +5,7 @@ tags = []
 title = "About"
 type = "page"
 [menu.main]
-weight = 7
+weight = 9
 
 +++
 [![IMG](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_33081-300x225.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_33081.jpg)![IMG](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_5366-225x300.jpg)[![IMG](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_3319-300x225.jpg)![IMG](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7989-225x300.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_3319.jpg)

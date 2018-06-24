@@ -5,7 +5,7 @@ tags = []
 title = "Philosophy"
 type = "page"
 [menu.main]
-weight = 1
+weight = 2
 
 +++
 # Samford Community Kindergarten Philosophy

@@ -5,7 +5,7 @@ tags = []
 title = "Fees"
 type = "page"
 [menu.main]
-weight = 5
+weight = 6
 
 +++
 | From 2018 | $850/term |
