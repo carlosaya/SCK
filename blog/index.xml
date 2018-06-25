@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2018, Samford Community Kindergarten; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 25 Jun 2018 20:26:30 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Apr 2018 11:07:31 +0000</lastBuildDate>
     
 	<atom:link href="https://carlosaya.github.io/SCK/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test Blog Entry</title>
-      <link>https://carlosaya.github.io/SCK/blog/2018/06/25/test-blog-entry/</link>
-      <pubDate>Mon, 25 Jun 2018 20:26:30 +1000</pubDate>
-      
-      <guid>https://carlosaya.github.io/SCK/blog/2018/06/25/test-blog-entry/</guid>
-      <description>This is my test blog post with gallery!</description>
-    </item>
     
     <item>
       <title>Kindy Open Day</title>
