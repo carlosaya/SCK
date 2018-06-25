@@ -18,3 +18,5 @@ fields:
   name: gallery
   label: Gallery
   description: Spice up your blog post with a gallery!  Optional.
+pages:
+- content/blog/test-blog-entry.md
