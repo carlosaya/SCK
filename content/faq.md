@@ -7,7 +7,7 @@ type = "page"
 weight = 7
 
 +++
-## [![IMG](http://www.samfordkindergarten.com.au/wp-content/uploads/IMG_0488-300x225.jpg)](http://www.samfordkindergarten.com.au/wp-content/uploads/IMG_0488.jpg)[![IMG](http://www.samfordkindergarten.com.au/wp-content/uploads/IMG_4786-200x300.jpg)](http://www.samfordkindergarten.com.au/wp-content/uploads/IMG_4786.jpg)[![IMG](http://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7397-225x300.jpg)](http://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7397.jpg)
+## [![IMG](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_0488-300x225.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_0488.jpg)[![IMG](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_4786-200x300.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_4786.jpg)[![IMG](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7397-225x300.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7397.jpg)
 
 **What's so special about Samford Kindy?**
 
@@ -39,7 +39,7 @@ No.  Samford Kindy offers a rich play-based educational program, supporting ea
 ** **
 **When should I enrol?**
 
-Samford Kindy is a very popular choice among locals, and while camping out to get a spot on the waiting list is (fortunately) no longer required, we do encourage you to enrol your child as soon as possible. ​ Waiting lists for each year open on 1st July, via our website [www.samfordkindergarten.com.au](http://www.samfordkindergarten.com.au/).
+Samford Kindy is a very popular choice among locals, and while camping out to get a spot on the waiting list is (fortunately) no longer required, we do encourage you to enrol your child as soon as possible. ​ Waiting lists for each year open on 1st July, via our website [www.samfordkindergarten.com.au](https://www.samfordkindergarten.com.au/).
 ** **
 **Do you provide food and nappies?**
 
