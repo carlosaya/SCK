@@ -51,7 +51,7 @@ title = "From our blog"
 [params.see_more]
 enable = true
 icon = "fa fa-child"
-link_text = "Tell Me More!"
+link_text = "Enrol Now!"
 link_url = "./enrol/index.html"
 subtitle = "Your child may be placed on the waiting list from the 1st of July of the year following their birth. Children are enrolled at the Centre in order of placement on the waiting list. As waiting lists are usually long at Samford Kindy, we advise placing children’s names on the list as soon as possible."
 title = "Enrol Now"
