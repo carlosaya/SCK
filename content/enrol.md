@@ -9,7 +9,7 @@ weight = 6
 +++
 # **Waiting lists**
 
-[**Apply here (online) for 2018/2019/2020/2021/2022 waiting lists**](https://carlosaya.github.io/SCK/waiting-list/index.html).
+### [**Enrol online for 2018 - 2022 waiting lists**](https://www.samfordkindergarten.com.au/waiting-list/index.html)
 
 Waiting list places are determined by receipt of both the form and fee (whether this is completed online or in person). The $30 non-refundable waiting list fee **must** be received by Samford Community Kindergarten **within 3 working days** of the form being submitted, otherwise your submission is unfortunately invalid.
 
@@ -39,12 +39,11 @@ If your child is of eligible age, our service may be entitle to claim QKFS fundi
 
 Please be advised that Samford Community Kindergarten does not have a sibling policy.
 
-
 | Child born between: | Attends Kindy | Place on waiting list from: |
 | --- | --- | --- |
-| 1 July 2016 to 30 June 2017 | 2021 | [**Apply Now**](https://carlosaya.github.io/SCK/waiting-list/index.html) |
+| 1 July 2013 to 30 June 2014 | 2018 | Apply Now |
+| 1 July 2014 to 30 June 2015 | 2019 | Apply Now |
+| 1 July 2015 to 30 June 2016 | 2020 | Apply Now |
+| 1 July 2016 to 30 June 2017 | 2021 | Apply Now |
 | 1 July 2017 to 30 June 2018 | 2022 | 1 July 2018 |
 | 1 July 2018 to 30 June 2019 | 2023 | 1 July 2019 |
-| 1 July 2019 to 30 June 2020 | 2024 | 1 July 2020 |
-| 1 July 2020 to 30 June 2021 | 2025 | 1 July 2021 |
-| 1 July 2021 to 30 June 2022 | 2026 | 1 July 2022 |
