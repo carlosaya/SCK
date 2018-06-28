@@ -2,9 +2,9 @@
 categories = []
 date = "2018-06-21T08:52:14+00:00"
 tags = []
-title = "Enrol"
+title = "Enrol Now"
 [menu.main]
-weight = 10
+weight = 6
 
 +++
 # **Waiting lists**
