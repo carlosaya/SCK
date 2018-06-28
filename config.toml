@@ -1,4 +1,4 @@
-baseurl = "https://www.samfordkindergarten.com.au/"
+baseurl = "http://www.samfordkindergarten.com.au/"
 defaultContentLanguage = "en"
 googleAnalytics = ""
 languageCode = "en-us"

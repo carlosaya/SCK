@@ -7,7 +7,7 @@ type = "page"
 weight = 7
 
 +++
-## [![IMG](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_0488-300x225.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_0488.jpg)[![IMG](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_4786-200x300.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_4786.jpg)[![IMG](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7397-225x300.jpg)](https://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7397.jpg)
+## [![IMG](http://www.samfordkindergarten.com.au/wp-content/uploads/IMG_0488-300x225.jpg)](http://www.samfordkindergarten.com.au/wp-content/uploads/IMG_0488.jpg)[![IMG](http://www.samfordkindergarten.com.au/wp-content/uploads/IMG_4786-200x300.jpg)](http://www.samfordkindergarten.com.au/wp-content/uploads/IMG_4786.jpg)[![IMG](http://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7397-225x300.jpg)](http://www.samfordkindergarten.com.au/wp-content/uploads/IMG_7397.jpg)
 
 **What's so special about Samford Kindy?**
 
