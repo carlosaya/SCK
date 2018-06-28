@@ -4,8 +4,7 @@ date = "2018-06-13T11:22:30Z"
 tags = []
 title = "Fees"
 type = "page"
-[menu.main]
-weight = 6
+
 
 +++
 | From 2018 | $850/term |
