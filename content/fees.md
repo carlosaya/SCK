@@ -11,8 +11,8 @@ weight = 6
 | From 2018 | $850/term |
 | --- | --- |
 | Membership fee | $5 per family annually |
-| Working Bee levy | $220 annually (refundable) |
-| Mowing Levy | $65 annually (non-refundable) |
+| Working Bee levy | $225 annually (refundable) |
+| Mowing Levy | $70 annually (non-refundable) |
 
 ** **
 
