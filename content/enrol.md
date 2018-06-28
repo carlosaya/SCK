@@ -4,7 +4,7 @@ date = "2018-06-21T08:52:14+00:00"
 tags = []
 title = "Enrol"
 [menu.main]
-weight = 9
+weight = 10
 
 +++
 # **Waiting lists**
