@@ -17,15 +17,18 @@
         
         .price {
             list-style-type: none;
-            border: 1px solid #eee;
             border-radius: 20px;
             margin: 0;
             padding: 0;
             -webkit-transition: 0.3s;
             transition: 0.3s;
             position: relative;
+            max-width: 300px;
+            width: 25%;
+            display: inline-block;
             left: 50%;
             transform: translatex(-50%);
+
                 
         }
         
@@ -89,7 +92,7 @@
                     <a href="{{ .Site.Params.see_more.link_url }}" class="btn btn-template-transparent-black btn-lg">{{ .Site.Params.see_more.link_text }}</a>
                 </p>
                 <br>
-                <div class="columns">
+                <div>
                     <ul class="price">
                     <li class="header" style="background-color:#7fb79e;">Fees</li>
                     <li class="grey"><b>$850 / Term</b></li>
