@@ -14,11 +14,11 @@ Join us for a sausage sizzle and fun activities!
 
 Meet the staff, committee and parents.
 
-![](https://www.samfordkindergarten.com.au/wp-content/uploads/playground.png)
+![](https://www.samfordkindergarten.com.au/uploads/playground.png)
 
 Let your child explore… play…  investigate…  have fun…
 
-![](https://www.samfordkindergarten.com.au/wp-content/uploads/open-day-kids-playing.png)
+![](https://www.samfordkindergarten.com.au/uploads/open-day-kids-playing.png)
 
 The Samford Community C&K Open Day is all about opening our doors and welcoming families so you can see for yourself how special a C&K community service is. While you’re visiting our centre on Open Day, you can join the waiting list for 2019, 2020, 2021.
 
