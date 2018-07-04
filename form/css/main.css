@@ -32,7 +32,7 @@
 
 body, html {
 	height: 100%;
-	font-family: Raleway-SemiBold, sans-serif;
+	font-family: Raleway-Medium, sans-serif;
 }
 
 /*---------------------------------------------*/
@@ -190,7 +190,7 @@ iframe {
   display: -ms-flexbox;
   display: flex;
   flex-wrap: wrap;
-  font-size: 12px;
+  font-size: 14px;
   justify-content: space-between;
 }
 
