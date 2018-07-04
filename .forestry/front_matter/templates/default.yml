@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: []
 pages:
+- content/waiting-listv2.md
 - content/program.md
 - content/enrol.md
 - content/facilities.md
