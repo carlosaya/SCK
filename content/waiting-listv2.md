@@ -6,4 +6,4 @@ tags = []
 title = "Waiting List"
 
 +++
-<iframe src="https://script.google.com/macros/s/AKfycbzWOQYhczs6nNG2am7cAPffZU4nTIA66HpJ7-Ml-HzDJCBi9hI/exec" width=100% height=2000 frameborder="0" marginheight="0" marginwidth="0">Loading&#8230;</iframe>
+<iframe src="https://script.google.com/macros/s/AKfycbzWOQYhczs6nNG2am7cAPffZU4nTIA66HpJ7-Ml-HzDJCBi9hI/exec?page=new_form" width=100% height=2000 frameborder="0" marginheight="0" marginwidth="0">Loading&#8230;</iframe>
