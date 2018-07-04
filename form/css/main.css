@@ -512,7 +512,7 @@ textarea.input100 {
 
 .btn-hide-validate {
   font-family: Material-Design-Iconic-Font;
-  font-size: 18px;
+  font-size: 14px;
   color: #fa4251;
   cursor: pointer;
   display: -webkit-box;
@@ -524,7 +524,7 @@ textarea.input100 {
   justify-content: center;
   position: absolute;
   height: 100%;
-  top: 0px;
+  top: 1px;
   right: 5px;
 }
 
