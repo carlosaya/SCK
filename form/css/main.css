@@ -175,7 +175,7 @@ iframe {
   width: 790px;
   background: #fff;
   border-radius: 2px;
-  padding: 55px 95px 68px 95px;
+  padding: 0px 95px 68px 95px;
 }
 
 
@@ -456,13 +456,13 @@ textarea.input100 {
 
 @media (max-width: 768px) {
   .wrap-contact100 {
-    padding: 55px 45px 68px 45px;
+    padding: 0px 45px 68px 45px;
   }
 }
 
 @media (max-width: 576px) {
   .wrap-contact100 {
-    padding: 55px 15px 68px 15px;
+    padding: 0px 15px 68px 15px;
   }
 
   .rs1.wrap-input100 {
