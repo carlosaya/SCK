@@ -5,6 +5,7 @@
     /*==================================================================
     [ Validate after type ]*/
     $('.validate-input .input100').each(function(){
+        showValidate(this);
         $(this).on('blur', function(){
             if(validate(this) == false){
                 showValidate(this);
@@ -12,7 +13,7 @@
             else {
                 $(this).parent().addClass('true-validate');
             }
-        })    
+        })
     })
   
   
@@ -59,8 +60,7 @@
 
         $(thisAlert).addClass('alert-validate');
 
-        // $(thisAlert).append('<span class="btn-hide-validate">&#xf136;</span>')
-        $(thisAlert).append('<span class="btn-hide-validate"></span>')
+        $(thisAlert).append('<span class="btn-hide-validate">&#xf136;</span>')
         $('.btn-hide-validate').each(function(){
             $(this).on('click',function(){
                hideValidate(this);
