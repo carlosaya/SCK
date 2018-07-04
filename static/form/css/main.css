@@ -16,6 +16,11 @@
 }
 
 @font-face {
+  font-family: Raleway-Medium;
+  src: url('../fonts/raleway/Raleway-Medium.ttf'); 
+}
+
+@font-face {
   font-family: Raleway-Black;
   src: url('../fonts/raleway/Raleway-Black.ttf'); 
 }
