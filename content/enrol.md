@@ -7,7 +7,7 @@ title = "Enrol Now"
 weight = 6
 
 +++
-## [**Click here to Enrol Now for the 2018 - 2022 waiting lists**](https://www.samfordkindergarten.com.au/waiting-list/index.html)
+## [**Click here to Enrol Now for the 2018 - 2022 waiting lists**](https://www.samfordkindergarten.com.au/waiting-listv2/)
 
 Waiting list places are determined by receipt of both the form and fee (whether this is completed online or in person). The $30 non-refundable waiting list fee **must** be received by Samford Community Kindergarten **within 3 working days** of the form being submitted, otherwise your submission is unfortunately invalid.
 
@@ -39,9 +39,9 @@ Please be advised that Samford Community Kindergarten does not have a sibling po
 
 | Child born between: | Attends Kindy | Place on waiting list from: |
 | --- | --- | --- |
-| 1 July 2013 to 30 June 2014 | 2018 | [Apply Now](https://www.samfordkindergarten.com.au/waiting-list/index.html) |
-| 1 July 2014 to 30 June 2015 | 2019 | [Apply Now](https://www.samfordkindergarten.com.au/waiting-list/index.html) |
-| 1 July 2015 to 30 June 2016 | 2020 | [Apply Now](https://www.samfordkindergarten.com.au/waiting-list/index.html) |
-| 1 July 2016 to 30 June 2017 | 2021 | [Apply Now](https://www.samfordkindergarten.com.au/waiting-list/index.html) |
-| 1 July 2017 to 30 June 2018 | 2022 | [Apply Now](https://www.samfordkindergarten.com.au/waiting-list/index.html) |
+| 1 July 2013 to 30 June 2014 | 2018 | Apply Now |
+| 1 July 2014 to 30 June 2015 | 2019 | Apply Now |
+| 1 July 2015 to 30 June 2016 | 2020 | Apply Now |
+| 1 July 2016 to 30 June 2017 | 2021 | Apply Now |
+| 1 July 2017 to 30 June 2018 | 2022 | Apply Now |
 | 1 July 2018 to 30 June 2019 | 2023 | 1 July 2019 |
