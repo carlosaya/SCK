@@ -6,4 +6,4 @@ tags = []
 title = "Confirmation"
 
 +++
-<div id="confirmationContent" onload="window.alert('123')>test</div>
+<div id="confirmationContent" onload="window.alert('123')">test</div>
