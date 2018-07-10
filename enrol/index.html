@@ -413,9 +413,11 @@
 
 <script src="https://www.samfordkindergarten.com.au/js/owl.carousel.min.js"></script>
 <script>
-    $('#userHtmlFrame').on('load', function() {
-    console.log('userHtmlFrame has (re)loaded ');
-});
+  window.addEventListener("srollToTop", function(event) {
+    console.log( "received event");
+    window.scrollTo(0,0);
+  });
+
 </script>
 
 
