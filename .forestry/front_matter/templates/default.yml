@@ -1,4 +1,5 @@
 ---
+label: default
 hide_body: false
 is_partial: false
 fields:
@@ -13,6 +14,7 @@ fields:
   hidden: false
   default: []
 pages:
+- content/devwl.md
 - content/waiting-listv2.md
 - content/program.md
 - content/enrol.md
