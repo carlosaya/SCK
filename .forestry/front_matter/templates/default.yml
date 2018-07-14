@@ -14,6 +14,7 @@ fields:
   hidden: false
   default: []
 pages:
+- content/devwl.md
 - content/waiting-listv2.md
 - content/program.md
 - content/enrol.md
