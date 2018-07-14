@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.samfordkindergarten.com.au/devwl/</loc>
-    <lastmod>2018-07-14T20:56:27+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.samfordkindergarten.com.au/waiting-listv2/</loc>
     <lastmod>2018-07-04T22:08:04+10:00</lastmod>
   </url>
@@ -73,7 +68,7 @@
   
   <url>
     <loc>https://www.samfordkindergarten.com.au/</loc>
-    <lastmod>2018-07-14T20:56:27+10:00</lastmod>
+    <lastmod>2018-07-04T22:08:04+10:00</lastmod>
     <priority>0</priority>
   </url>
   
