@@ -13,9 +13,12 @@ Waiting list places are determined by receipt of both the form and fee (whether 
 
 To place your child’s name on the waiting list, parents are asked to complete the online waiting list form and pay a non-refundable waiting list fee of $30. The completed booking form will be sent to us and you will receive a confirmation email. You will then be required to pay via direct deposit or by visiting a Bendigo Bank branch to complete payment of the booking fee.
 
+**BSB**: 633 000  
+**ACCOUNT**: 1467 31898
+
 Your child’s name may be placed on the waiting list from the 1st of July of the year following his or her birth (please refer to the table below). Children are enrolled at the Centre in order of placement on the waiting list. As waiting lists are usually long at Samford Kindy, we advise placing children’s names on the list as soon as possible. It is the policy of both Samford Community Kindergarten and C&K that we do not disclose your child’s number on our waiting list.
 
-Families are offered places for their children from the July prior to the year they will attend. Upon accepting the offer, an enrolment fee is payable. This fee is made up of a Working Bee Levy, Mowing Levy and Membership Fee. The enrolment fee is non-refundable if the child is withdrawn from Kindy.
+Families are offered places for their children in mid-May prior to the year they will attend. Upon accepting the offer, an enrolment fee is payable. This fee is made up of a Working Bee Levy, Mowing Levy and Membership Fee. The enrolment fee is non-refundable if the child is withdrawn from Kindy.
 
 By completing the waiting list form and submitting the booking fee payment you agree to the following:
 
@@ -29,7 +32,7 @@ Children must be at least 4 years old by 30 June in the year they are enrolled i
 
 **Immunisation Policy**
 
-On 11th May 2017  the Samford Community Kindergarten Committee  conducted a vote of the current 2017 parents for the introduction of the Immunisation Policy. The results of this vote were unanimously for the introduction of the Immunisation Policy. This policy will be effective as of 1 January 2018.
+On 11th May 2017  the Samford Community Kindergarten Committee  conducted a vote of the current 2017 parents for the introduction of the Immunisation Policy. The results of this vote were unanimously for the introduction of the Immunisation Policy. This policy is effective as of 1 January 2018.
 
 **Queensland Kindergarten Funding Scheme (QKFS)**
 
