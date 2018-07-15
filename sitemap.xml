@@ -43,8 +43,19 @@
   </url>
   
   <url>
+    <loc>https://www.samfordkindergarten.com.au/blog/2018/04/19/migrate-from-jekyll/</loc>
+    <lastmod>2018-04-19T11:07:31+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.samfordkindergarten.com.au/philosophy/</loc>
     <lastmod>2018-03-18T06:19:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.samfordkindergarten.com.au/blog/</loc>
+    <lastmod>2018-04-19T11:07:31+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
