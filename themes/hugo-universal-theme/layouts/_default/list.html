@@ -21,7 +21,7 @@
                     <!-- *** LEFT COLUMN *** -->
 
                     <div class="col-md-9" id="blog-listing-medium">
-
+                        <span id='list'></span>
                         {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
                         {{ range $paginator.Pages }}
                         <section class="post">
