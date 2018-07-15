@@ -178,7 +178,6 @@ iframe {
 
 .modal-contact100 {
   width: 100%;
-  min-height: 100vh;  
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
@@ -201,6 +200,13 @@ iframe {
   background: #fff;
   border-radius: 2px;
   padding: 0px 95px 68px 95px;
+}
+
+.wrap-modal100 {
+  width: 100%;
+  background: #fff;
+  border-radius: 2px;
+  padding: 0px 95px 10px 95px;
 }
 
 
