@@ -12,6 +12,10 @@ fields:
 - type: file
   name: banner
   label: Banner image for the blog post
+- type: image_gallery
+  name: gallery
+  label: Image Gallery
+  description: Optionally upload a gallery of images for this blog post
 - name: tags
   label: Tags
   type: tag_list
@@ -22,10 +26,6 @@ fields:
   type: tag_list
   hidden: false
   default: []
-- type: image_gallery
-  name: gallery
-  label: Image Gallery
-  description: Optionally upload a gallery of images for this blog post
 pages:
 - content/devwl.md
 - content/waiting-listv2.md
