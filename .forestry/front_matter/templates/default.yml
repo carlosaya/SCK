@@ -22,6 +22,10 @@ fields:
   type: tag_list
   hidden: false
   default: []
+- type: image_gallery
+  name: gallery
+  label: Image Gallery
+  description: Optionally upload a gallery of images for this blog post
 pages:
 - content/devwl.md
 - content/waiting-listv2.md
