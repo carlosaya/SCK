@@ -487,15 +487,24 @@ textarea.input100 {
 
 @media (max-width: 768px) {
   .wrap-contact100 {
-    padding: 0px 45px 68px 45px;
+    padding: 0px 10px 68px 10px;
+    overflow: hidden;
+  }
+
+  .wrap-modal100 {
+    padding: 0px;
   }
 }
 
 @media (max-width: 576px) {
   .wrap-contact100 {
-    padding: 0px 15px 68px 15px;
+    padding: 0px 10px 68px 10px;
+    overflow: hidden;
   }
-
+  
+  .wrap-modal100 {
+    padding: 0px;
+  }
   .rs1.wrap-input100 {
     width: 100%;
   }
