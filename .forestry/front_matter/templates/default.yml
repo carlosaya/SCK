@@ -3,6 +3,15 @@ label: default
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  default: ''
+  label: Title for your blog post
+  name: title
+  config:
+    required: true
+- type: file
+  name: banner
+  label: Banner image for the blog post
 - name: tags
   label: Tags
   type: tag_list
@@ -13,13 +22,9 @@ fields:
   type: tag_list
   hidden: false
   default: []
-- type: file
-  name: banner
-  label: Banner image for the blog post
 pages:
 - content/devwl.md
 - content/waiting-listv2.md
 - content/program.md
 - content/enrol.md
 - content/facilities.md
-- content/blog/test-blog-entry.md
