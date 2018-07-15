@@ -23,7 +23,7 @@
                     <!-- *** LEFT COLUMN *** -->
                     <span id='single'></span>
                     <div class="col-md-9" id="blog-post">
-
+                        <h2>{{.Params.title}}</h2><br>
                         <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a> | {{ end }}{{ .Date.Format .Site.Params.date_format }}</p>
                         <div class="image">
                             <a href="{{ .Permalink }}">
