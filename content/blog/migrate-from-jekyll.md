@@ -2,6 +2,7 @@
 banner = "/uploads/2018/06/20/c-and-k-open-day[1].png"
 categories = []
 date = "2018-04-19T11:07:31+00:00"
+draft = true
 tags = []
 title = "Kindy Open Day"
 
@@ -12,7 +13,7 @@ title = "Kindy Open Day"
 
 Join us for a sausage sizzle and fun activities!
 
-Meet the staff, committee and parents.
+Meet the staff, committee and parents. 
 
 ![](https://www.samfordkindergarten.com.au/uploads/playground.png)
 
