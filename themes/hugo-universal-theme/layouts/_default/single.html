@@ -37,6 +37,13 @@
                         <div id="post-content">
                           {{ .Content }}
                         </div>
+                        {{ if .Params.gallery }}
+                        <ul>
+                            {{ range .Params.gallery }}
+                              <li><img src="{{ . | relURL }}"></li>
+                            {{ end }}
+                        </ul>
+                        {{ end }}
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}
                         <div id="comments">
