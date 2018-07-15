@@ -13,9 +13,13 @@ fields:
   type: tag_list
   hidden: false
   default: []
+- type: file
+  name: banner
+  label: Banner image for the blog post
 pages:
 - content/devwl.md
 - content/waiting-listv2.md
 - content/program.md
 - content/enrol.md
 - content/facilities.md
+- content/blog/test-blog-entry.md
