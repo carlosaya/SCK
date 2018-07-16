@@ -23,14 +23,14 @@ Grid Layout Styles
     /* Tablet view: 2 tiles */
     .gallery .box {
         width: 50%;
-        padding-bottom: 50%;
+        padding-bottom: 35%;
     }
 }
 @media only screen and (min-width : 480px) {
     /* Small desktop / ipad view: 3 tiles */
     .gallery .box {
-        width: 33.3%;
-        padding-bottom: 33.3%; /*  */
+        width: 33%;
+        padding-bottom: 23%; /*  */
     }
 }
 @media only screen and (min-width : 9999px) {
@@ -124,6 +124,7 @@ figcaption styles
     background: rgba(0, 0, 0, 0.5);
     opacity: 1;
     cursor: pointer;
+    display: none;
 }
 .gallery.caption-position-none figcaption,
 .fancy-figure.caption-position-none figcaption  {
