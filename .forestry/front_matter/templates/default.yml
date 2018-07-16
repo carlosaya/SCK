@@ -15,7 +15,9 @@ fields:
 - type: image_gallery
   name: gallery
   label: Image Gallery
-  description: Optionally upload a gallery of images for this blog post
+  description: 'Optionally upload a gallery of images for this blog post.  You must
+    include the following in your post to include the gallery: {{< load-photoswipe
+    >}}  {{< gallery dir="/uploads/YYYY/MM/DD/" >}}'
 - name: tags
   label: Tags
   type: tag_list
