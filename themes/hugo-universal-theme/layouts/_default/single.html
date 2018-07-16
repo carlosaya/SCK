@@ -39,8 +39,7 @@
                           {{ .Content }}
                         </div>
                         {{ if .Params.gallery }}
-                            {{< load-photoswipe >}}
-                            {{< gallery dir="/uploads/" >}}
+                            
                         {{ end }}
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}
