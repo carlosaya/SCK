@@ -11,4 +11,4 @@ this is a test blog post with a gallery
 
 {{< load-photoswipe >}}
 
-{{< gallery dir="/2018/07/16/" >}}
+{{< gallery dir="/uploads/2018/07/16/" >}}
