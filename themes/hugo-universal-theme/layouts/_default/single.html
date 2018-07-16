@@ -34,15 +34,13 @@
                                 {{ end }}
                             </a>
                         </div>
+                        <br>
                         <div id="post-content">
                           {{ .Content }}
                         </div>
                         {{ if .Params.gallery }}
-                        <ul>
-                            {{ range .Params.gallery }}
-                              <li><img src="{{ . | relURL }}"></li>
-                            {{ end }}
-                        </ul>
+                            {{< load-photoswipe >}}
+                            {{< gallery dir="/uploads/" />}}
                         {{ end }}
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}
