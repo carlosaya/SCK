@@ -12,7 +12,7 @@ title = "Kindy Open Day"
 
 Join us for a sausage sizzle and fun activities!
 
-Meet the staff, committee and parents. 
+Meet the staff, committee and parents.
 
 ![](https://www.samfordkindergarten.com.au/uploads/playground.png)
 
