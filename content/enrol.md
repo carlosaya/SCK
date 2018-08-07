@@ -1,6 +1,8 @@
 +++
+banner = ""
 categories = []
 date = "2018-06-21T08:52:14+00:00"
+gallery = []
 tags = []
 title = "Enrol Now"
 [menu.main]
@@ -30,9 +32,15 @@ By completing the waiting list form and submitting the booking fee payment you a
 
 Children must be at least 4 years old by 30 June in the year they are enrolled in an approved kindergarten program.
 
+**Waiting List Policy**
+
+The full waiting list policy can be found [here](https://www.samfordkindergarten.com.au/uploads/2018/08/07/WaitingListPolicy.pdf).
+
 **Immunisation Policy**
 
 On 11th May 2017  the Samford Community Kindergarten Committee  conducted a vote of the current 2017 parents for the introduction of the Immunisation Policy. The results of this vote were unanimously for the introduction of the Immunisation Policy. This policy is effective as of 1 January 2018.
+
+[Click here to view the Immunisation Policy.](https://www.samfordkindergarten.com.au/uploads/2018/08/07/ImmunisationPolicy.pdf)
 
 **Queensland Kindergarten Funding Scheme (QKFS)**
 
