@@ -32,6 +32,10 @@ By completing the waiting list form and submitting the booking fee payment you a
 
 Children must be at least 4 years old by 30 June in the year they are enrolled in an approved kindergarten program.
 
+**Statement of Fees**
+
+Queensland Government Statement of Fees can be found [here](https://www.samfordkindergarten.com.au/uploads/2018/08/17/statement-of-fees-Samford Kindergarten 2018.pdf).
+
 **Waiting List Policy**
 
 The full waiting list policy can be found [here](https://www.samfordkindergarten.com.au/uploads/2018/08/07/WaitingListPolicy.pdf).
