@@ -32,10 +32,6 @@ By completing the waiting list form and submitting the booking fee payment you a
 
 Children must be at least 4 years old by 30 June in the year they are enrolled in an approved kindergarten program.
 
-**Statement of Fees**
-
-Queensland Government Statement of Fees can be found [here](https://www.samfordkindergarten.com.au/uploads/2018/08/17/statement-of-fees-Samford Kindergarten 2018.pdf).
-
 **Waiting List Policy**
 
 The full waiting list policy can be found [here](https://www.samfordkindergarten.com.au/uploads/2018/08/07/WaitingListPolicy.pdf).
@@ -44,11 +40,15 @@ The full waiting list policy can be found [here](https://www.samfordkindergarten
 
 On 11th May 2017  the Samford Community Kindergarten Committee  conducted a vote of the current 2017 parents for the introduction of the Immunisation Policy. The results of this vote were unanimously for the introduction of the Immunisation Policy. This policy is effective as of 1 January 2018.
 
-[Click here to view the Immunisation Policy.](https://www.samfordkindergarten.com.au/uploads/2018/08/07/ImmunisationPolicy.pdf)
+[Click here to view the Immunisation Policy](https://www.samfordkindergarten.com.au/uploads/2018/08/07/ImmunisationPolicy.pdf)
+
+**Statement of Fees**
+
+Queensland Government Statement of Fees can be found [here](https://www.samfordkindergarten.com.au/uploads/2018/08/17/statement-of-fees-Samford Kindergarten 2018.pdf).
 
 **Queensland Kindergarten Funding Scheme (QKFS)**
 
-If your child is of eligible age, our service may be entitle to claim QKFS funding on behalf of you child. If your child is enrolled at another kindergarten program and they are claiming the QKFS for your child, our service will not be able to claim the funding. You will need to notify us if your child is enrolled and claiming at another kindergarten.
+If your child is of eligible age, our service may be entitled to claim QKFS funding on behalf of you child. If your child is enrolled at another kindergarten program and they are claiming the QKFS for your child, our service will not be able to claim the funding. You will need to notify us if your child is enrolled and claiming at another kindergarten.
 
 Please be advised that Samford Community Kindergarten does not have a sibling policy.
 
