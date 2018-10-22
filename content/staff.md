@@ -20,13 +20,13 @@ The ongoing professional development of all staff members is encouraged by the K
 
 ### Staff of Samford Community Kindergarten 2018
 
-**Mrs Keria Newman** – Director/Nominated Supervisor/Teacher Blue Group
-
-Bachelor of Education (Early Childhood), Diploma of Teaching Primary/Preschool
-
-**Mrs Kim Rowan** – Designated Supervisor/ Teacher Yellow Group
+**Mrs Kim Rowan** – Nominated Supervisor/Teacher Yellow Group
 
 Bachelor of Education, Diploma of Teaching Early Childhood
+
+**Mrs Jenny Jewell** – Nominated Supervisor/Teacher Blue Group
+
+Bachelor of Education (Early Childhood) 
 
 **Mrs Melinda Cartwright** – Teaching Assistant Blue Group
 
