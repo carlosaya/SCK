@@ -5,13 +5,12 @@ tags = []
 title = "Fees"
 type = "page"
 
-
 +++
-| From 2018 | $850/term |
+| From 2019 | $875/term |
 | --- | --- |
 | Membership fee | $5 per family annually |
-| Working Bee levy | $225 annually (refundable) |
-| Mowing Levy | $70 annually (non-refundable) |
+| Working Bee levy | $150 annually (refundable) |
+| Maintenance Levy | $150 annually (non-refundable) |
 
 ** **
 
