@@ -1,6 +1,8 @@
 +++
+banner = ""
 categories = []
 date = "2018-06-17T11:27:58+00:00"
+gallery = []
 tags = []
 title = "Program"
 [menu.main]
@@ -22,10 +24,10 @@ There are currently 2 groups, each attending 5 days per fortnight:
 
 | Term | Dates |
 | --- | --- |
-| Term 1, 2018 | 22 January - 29 March |
-| Term 2, 2018 | 16 April - 29 June |
-| Term 3, 2018 | 16 July - 21 September |
-| Term 4, 2018 | 8 October - 14 December |
+| Term 1, 2019 | 29 January - 5 April |
+| Term 2, 2019 | 23 April - 28 June |
+| Term 3, 2019 | 15 July - 20 September |
+| Term 4, 2019 | 8 October - 12 December |
 
 **	**
 
