@@ -11,7 +11,7 @@ weight = 5
 +++
 ### Groups
 There are currently 2 groups, each attending 5 days per fortnight:
-
+ 
 | Group | Days |
 | --- | --- |
 | Yellow group | Monday, Tuesday and alternating Wednesday |
