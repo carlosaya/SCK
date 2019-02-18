@@ -18,15 +18,15 @@ Our experienced Early Childhood Teachers are supported by fully qualified assis
 
 The ongoing professional development of all staff members is encouraged by the Kindergarten, through regular attendance at workshops, courses, conferences and online learning.
 
-### Staff of Samford Community Kindergarten 2018
+### Staff of Samford Community Kindergarten 2019
 
-**Mrs Kim Rowan** – Nominated Supervisor/Teacher Yellow Group
+**Mrs Kim Rowan** – Nominated Supervisor/Co-director/Teacher Yellow Group
 
 Bachelor of Education, Diploma of Teaching Early Childhood
 
-**Mrs Jenny Jewell** – Nominated Supervisor/Teacher Blue Group
+**Mrs Madeline Sneesby** – Nominated Supervisor/Co-director/Teacher BlueGroup
 
-Bachelor of Education (Early Childhood) 
+Bachelor of Education (Early Childhood)
 
 **Mrs Melinda Cartwright** – Teaching Assistant Blue Group
 
@@ -36,7 +36,7 @@ Certificate III in Children’s Services
 
 Certificate III in Education Support
 
-**Mrs Claudine Tucker** – Administration Assistant and Financial Assistant
+**Mrs Claudine Tucker** – Administration Officer and Financial Assistant
 
 Our Administration office hours are Monday and Friday from 9.00am – 2.30pm
 
