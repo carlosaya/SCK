@@ -2,133 +2,152 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Samford Kindergarten</title>
-    <link>http://carlosaya.github.io/</link>
+    <link>https://www.samfordkindergarten.com.au/</link>
     <description>Recent content on Samford Kindergarten</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright Samford Kindergarten</copyright>
-    <lastBuildDate>Wed, 07 Jun 2017 15:36:00 +0530</lastBuildDate>
+    <copyright>Copyright (c) 2018, Samford Community Kindergarten; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 16 Jul 2018 21:31:41 +1000</lastBuildDate>
     
-	<atom:link href="http://carlosaya.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.samfordkindergarten.com.au/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>http://carlosaya.github.io/about/</link>
-      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
+      <title>C&amp;K Conference 2018</title>
+      <link>https://www.samfordkindergarten.com.au/blog/2018/07/16/candk-conference-2018/</link>
+      <pubDate>Mon, 16 Jul 2018 21:31:41 +1000</pubDate>
       
-      <guid>http://carlosaya.github.io/about/</guid>
-      <description>May the Force be with you, the Torque about you This is where my great about goes</description>
+      <guid>https://www.samfordkindergarten.com.au/blog/2018/07/16/candk-conference-2018/</guid>
+      <description>O​ur first day of Kindy holidays was spent attending the C&amp;amp;K conference on ​Inspiring Imagination, Cultivating language and Celebrating Diversity. It was an inspiring day beginning with two amazing guest speakers - Julie Cross and Dr. Susan Carland talking about diversity and acceptance. This was followed by some interesting workshops where we could learn, experiment and share with other educators.
+The final guest speaker was Anh Do and what a way to finish a wonderful and exhausting day!</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>http://carlosaya.github.io/contact/</link>
-      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
+      <title>devwl</title>
+      <link>https://www.samfordkindergarten.com.au/devwl/</link>
+      <pubDate>Sat, 14 Jul 2018 20:56:27 +1000</pubDate>
       
-      <guid>http://carlosaya.github.io/contact/</guid>
-      <description>You may contact me through the nearest wormhole This is where my great contact goes</description>
+      <guid>https://www.samfordkindergarten.com.au/devwl/</guid>
+      <description>Loading… </description>
     </item>
     
     <item>
-      <title>Enrol</title>
-      <link>http://carlosaya.github.io/enrol/</link>
-      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
+      <title>Waiting List</title>
+      <link>https://www.samfordkindergarten.com.au/waiting-listv2/</link>
+      <pubDate>Wed, 04 Jul 2018 22:08:04 +1000</pubDate>
       
-      <guid>http://carlosaya.github.io/enrol/</guid>
-      <description>May the Force be with you, the Torque about you This is where my great about goes</description>
+      <guid>https://www.samfordkindergarten.com.au/waiting-listv2/</guid>
+      <description>Loading… </description>
     </item>
     
     <item>
-      <title>FAQ</title>
-      <link>http://carlosaya.github.io/faq/</link>
-      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
+      <title>Enrol Now</title>
+      <link>https://www.samfordkindergarten.com.au/enrol/</link>
+      <pubDate>Thu, 21 Jun 2018 08:52:14 +0000</pubDate>
       
-      <guid>http://carlosaya.github.io/faq/</guid>
-      <description>May the Force be with you, the Torque about you This is where my great about goes</description>
+      <guid>https://www.samfordkindergarten.com.au/enrol/</guid>
+      <description>Click here to Enrol Now for the 2018 - 2022 waiting lists Waiting list places are determined by receipt of both the form and fee (whether this is completed online or in person). The $30 non-refundable waiting list fee must be received by Samford Community Kindergarten within 3 working days of the form being submitted, otherwise your submission is unfortunately invalid.
+To place your child’s name on the waiting list, parents are asked to complete the online waiting list form and pay a non-refundable waiting list fee of $30.</description>
     </item>
     
     <item>
       <title>Facilities</title>
-      <link>http://carlosaya.github.io/facilities/</link>
-      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
+      <link>https://www.samfordkindergarten.com.au/facilities/</link>
+      <pubDate>Sun, 17 Jun 2018 11:50:09 +0000</pubDate>
       
-      <guid>http://carlosaya.github.io/facilities/</guid>
-      <description>May the Force be with you, the Torque about you This is where my great about goes</description>
-    </item>
-    
-    <item>
-      <title>Fees</title>
-      <link>http://carlosaya.github.io/fees/</link>
-      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
-      
-      <guid>http://carlosaya.github.io/fees/</guid>
-      <description>May the Force be with you, the Torque about you This is where my great about goes</description>
-    </item>
-    
-    <item>
-      <title>Gallery</title>
-      <link>http://carlosaya.github.io/gallery/</link>
-      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
-      
-      <guid>http://carlosaya.github.io/gallery/</guid>
-      <description>May the Force be with you, the Torque about you This is where my great about goes</description>
-    </item>
-    
-    <item>
-      <title>Links</title>
-      <link>http://carlosaya.github.io/links/</link>
-      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
-      
-      <guid>http://carlosaya.github.io/links/</guid>
-      <description>May the Force be with you, the Torque about you This is where my great about goes</description>
-    </item>
-    
-    <item>
-      <title>Open Day</title>
-      <link>http://carlosaya.github.io/openday/</link>
-      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
-      
-      <guid>http://carlosaya.github.io/openday/</guid>
-      <description>May the Force be with you, the Torque about you This is where my great about goes</description>
-    </item>
-    
-    <item>
-      <title>Philosophy</title>
-      <link>http://carlosaya.github.io/philosophy/</link>
-      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
-      
-      <guid>http://carlosaya.github.io/philosophy/</guid>
-      <description>May the Force be with you, the Torque about you This is where my great about goes</description>
+      <guid>https://www.samfordkindergarten.com.au/facilities/</guid>
+      <description>Samford Kindergarten boasts an enviable range of resources and facilities, including stimulating indoor and outdoor environments. Our library meets children’s desires to curl-up and read, and our creative program encourages children to explore their creative tendencies.
+Outdoor play areas feature a vegetable patch, fairy garden, sand, water and a wide range of adventure play equipment. These play areas include paved and covered areas, ensuring that children can enjoy outdoor activities throughout the year.</description>
     </item>
     
     <item>
       <title>Program</title>
-      <link>http://carlosaya.github.io/program/</link>
-      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
+      <link>https://www.samfordkindergarten.com.au/program/</link>
+      <pubDate>Sun, 17 Jun 2018 11:27:58 +0000</pubDate>
       
-      <guid>http://carlosaya.github.io/program/</guid>
-      <description>May the Force be with you, the Torque about you This is where my great about goes</description>
+      <guid>https://www.samfordkindergarten.com.au/program/</guid>
+      <description>Groups There are currently 2 groups, each attending 5 days per fortnight:
+   Group Days     Yellow group Monday, Tuesday and alternating Wednesday   Blue group Thursday and Friday and alternating Wednesday    Program times 8.25am-2.30pm
+Term dates    Term Dates     Term 1, 2019 29 January - 5 April   Term 2, 2019 23 April - 28 June   Term 3, 2019 15 July - 20 September   Term 4, 2019 8 October - 12 December    Learning framework    Framework Link     National Quality Framework Early Years Learning Framework (EYLF)   C&amp;amp;K Curriculum Building waterfalls    Outside kindy hours care is not currently offered.</description>
     </item>
     
     <item>
-      <title>Samford Kindergarten</title>
-      <link>http://carlosaya.github.io/home/</link>
-      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
+      <title>Fees</title>
+      <link>https://www.samfordkindergarten.com.au/fees/</link>
+      <pubDate>Wed, 13 Jun 2018 11:22:30 +0000</pubDate>
       
-      <guid>http://carlosaya.github.io/home/</guid>
-      <description>Samford Kindergarten™ provides a high quality, play-based learning environment which is nurturing, stimulating and creative whilst incorporating family and community values under the umbrella of the Office of Early Childhood Education and Care and C&amp;amp;K.
-We have proudly helped generations of local families since 1984, and we provide an ideal environment to immerse your child in the Samford community – where they can make friends for life!
- We are a not-for-profit kindergarten.</description>
+      <guid>https://www.samfordkindergarten.com.au/fees/</guid>
+      <description>From 2019 $875/term     Membership fee $5 per family annually   Working Bee levy $150 annually (refundable)   Maintenance Levy $150 annually (non-refundable)    Fees are due no later than 2:30pm on Friday of week 2 in each term.
+The Queensland Government subsidises part of the cost of every eligible child, and the remainder is paid in fees. Additional funds are raised by the committee through fundraising and grants.</description>
     </item>
     
     <item>
       <title>Staff</title>
-      <link>http://carlosaya.github.io/staff/</link>
-      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
+      <link>https://www.samfordkindergarten.com.au/staff/</link>
+      <pubDate>Wed, 13 Jun 2018 11:09:40 +0000</pubDate>
       
-      <guid>http://carlosaya.github.io/staff/</guid>
-      <description>May the Force be with you, the Torque about you This is where my great about goes</description>
+      <guid>https://www.samfordkindergarten.com.au/staff/</guid>
+      <description>Education Our program is delivered by an experienced, dedicated and enthusiastic team,who are committed to educating and caring for our children.
+All staff have completed early childhood education, including child development, child psychology, teaching strategies and observation skills.
+Our experienced Early Childhood Teachers are supported by fully qualified assistants, in order to maximise learning opportunities and to provide a supportive and nurturing environment.
+The ongoing professional development of all staff members is encouraged by the Kindergarten, through regular attendance at workshops, courses, conferences and online learning.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.samfordkindergarten.com.au/about/</link>
+      <pubDate>Wed, 13 Jun 2018 11:08:31 +0000</pubDate>
+      
+      <guid>https://www.samfordkindergarten.com.au/about/</guid>
+      <description>Samford Kindergarten has an enviable reputation for the quality of teaching, facilities and resources.
+Children bring with them a rich variety of cultural and social backgrounds and experiences. We recognise and appreciate the individuality of each child and family, and observe a policy of acceptance of race, creed, gender, disability, class or culture.
+Children are encouraged to play, share and work alongside a consistent group of peers in a supportive and encouraging environment, which allows them to learn at their own pace.</description>
+    </item>
+    
+    <item>
+      <title>Kindy Open Day</title>
+      <link>https://www.samfordkindergarten.com.au/blog/2018/04/19/kindy-open-day/</link>
+      <pubDate>Thu, 19 Apr 2018 11:07:31 +0000</pubDate>
+      
+      <guid>https://www.samfordkindergarten.com.au/blog/2018/04/19/kindy-open-day/</guid>
+      <description>Saturday 19th May from 10am -12pm 17 Camp Mountain Rd, Samford Join us for a sausage sizzle and fun activities!
+Meet the staff, committee and parents.
+Let your child explore… play… investigate… have fun…
+The Samford Community C&amp;amp;K Open Day is all about opening our doors and welcoming families so you can see for yourself how special a C&amp;amp;K community service is. While you’re visiting our centre on Open Day, you can join the waiting list for 2019, 2020, 2021.</description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>https://www.samfordkindergarten.com.au/philosophy/</link>
+      <pubDate>Sun, 18 Mar 2018 06:19:50 +0000</pubDate>
+      
+      <guid>https://www.samfordkindergarten.com.au/philosophy/</guid>
+      <description>Samford Community Kindergarten Philosophy “IT TAKES A VILLAGE TO RAISE A CHILD”
+At Samford, we believe that childhood is a unique time of life to be valued and enjoyed. Children develop their sense of belonging by celebrating the richness of the history of Samford Kindergarten and the connections the centre has with community past, present and future.
+ Our semi-rural environment provides us with the unique opportunity to embrace country life with strong community involvement.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.samfordkindergarten.com.au/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.samfordkindergarten.com.au/contact/</guid>
+      <description> Samford Community Kindergarten Inc ABN 28 734 750 875
+   Phone (07) 3289 1759     Email admin@samfordkindergarten.com.au    </description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://www.samfordkindergarten.com.au/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.samfordkindergarten.com.au/faq/</guid>
+      <description>What&amp;rsquo;s so special about Samford Kindy?
+Samford Kindy has been established for over 30 years, and runs a locally well-respected and highly regarded Approved Kindergarten Program, under the Early Years Learning framework and the C&amp;amp;K Building waterfalls program.
+We have been assessed as &amp;ldquo;Exceeding&amp;rdquo; the National Quality Standard.
+We have lots of great learning resources, and our teachers and aides make each day fun and interesting.
+Have you seen our backyard and playground?</description>
     </item>
     
   </channel>
