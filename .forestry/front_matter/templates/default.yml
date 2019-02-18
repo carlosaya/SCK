@@ -29,9 +29,9 @@ fields:
   hidden: false
   default: []
 pages:
-- content/devwl.md
-- content/waiting-listv2.md
-- content/program.md
 - content/enrol.md
-- content/blog/candk-conference-2018.md
 - content/facilities.md
+- content/blog/candk-conference-2018.md
+- content/devwl.md
+- content/program.md
+- content/waiting-listv2.md
