@@ -38,7 +38,7 @@ style = "default"
 viewmorepostlink = "./blog/"
 [params.carousel]
 enable = true
-[params.clients]
+[params.supporters]
 enable = true
 subtitle = "Thank you to everyone who has helped support our Kindy in some way during 2018!"
 title = "Thank You"
@@ -48,14 +48,14 @@ enable = false
 enable = true
 subtitle = "There's always something fun and interesting for your little ones to experience at Samford Community Kindergarten.  Please check back here regularly to see what's happening in and around the Kindy!"
 title = "From our blog"
-[params.see_more]
+[params.fee_schedule]
 enable = true
 icon = "fa fa-child"
 link_text = "Enrol Now!"
 link_url = "./enrol/index.html"
 subtitle = "Your child may be placed on the waiting list from the 1st of July of the year following their birth. Children are enrolled at the Centre in order of placement on the waiting list. As waiting lists are usually long at Samford Kindy, we advise placing children’s names on the list as soon as possible."
 title = "Enrol Now"
-[params.testimonials]
+[params.qld_approved]
 enable = true
 subtitle = "<table><tr><td style=\"padding: 15px; background-color: #ffffffdd;\"><div class=\"text\">Using the Early Years Learning Framework and C&K Building Waterfalls guidelines as a basis for programming, children will engage in a stimulating, engaging, challenging and relevant program focusing on their individual needs and abilities.</div></td></tr></table><br><center><img src=\"img/accreditation-890.png\" width=\"75%\"></center>"
 title = "Queensland Approved"

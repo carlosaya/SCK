@@ -1,5 +1,5 @@
-{{ if isset .Site.Params "see_more" }}
-{{ if .Site.Params.see_more.enable }}
+{{ if isset .Site.Params "fee_schedule" }}
+{{ if .Site.Params.fee_schedule.enable }}
 <section class="bar background-image-fixed-2 no-mb color-white text-center">
     <style>
         * {
@@ -79,21 +79,21 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="icon icon-lg"><i class="{{ .Site.Params.see_more.icon }}"></i>
+                <div class="icon icon-lg"><i class="{{ .Site.Params.fee_schedule.icon }}"></i>
                 </div>
-                <h3 class="text-uppercase">{{ .Site.Params.see_more.title }}</h3>
-                <p class="lead">{{ .Site.Params.see_more.subtitle }}</p>
+                <h3 class="text-uppercase">{{ .Site.Params.fee_schedule.title }}</h3>
+                <p class="lead">{{ .Site.Params.fee_schedule.subtitle }}</p>
                 <p class="text-center">
-                    <a href="{{ .Site.Params.see_more.link_url }}" class="btn btn-template-transparent-black btn-lg">{{ .Site.Params.see_more.link_text }}</a>
+                    <a href="{{ .Site.Params.fee_schedule.link_url }}" class="btn btn-template-transparent-black btn-lg">{{ .Site.Params.fee_schedule.link_text }}</a>
                 </p>
                 <br>
                 <div>
                     <ul class="price">
                     <li class="header" style="background-color:#7fb79e;">Fees</li>
-                    <li class="grey"><b>$875 / Term</b></li>
-                    <li class="white"><b>Membership</b><br>$5/year</li>
-                    <li class="white"><b>Working Bee Levy</b><br>$150/year<br>Refundable</li>
-                    <li class="white"><b>Maintenance Levy</b><br>$150/year<br>Non-Refundable</li>
+                    <li class="grey"><b>{{ partial "fee_term.html" . }}</b></li>
+                    <li class="white"><b>Membership</b><br>{{ partial "fee_membership.html" . }}</li>
+                    <li class="white"><b>Working Bee Levy</b><br>{{ partial "fee_workingbee.html" . }}</li>
+                    <li class="white"><b>Maintenance Levy</b><br>{{ partial "fee_maintenance.html" . }}</li>
                     <li class="grey2"><a href="https://www.samfordkindergarten.com.au/fees/" class="button">More Info</a></li>
                     </ul>
                 </div>

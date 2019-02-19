@@ -1249,11 +1249,11 @@ fieldset[disabled] .btn-template-primary.active {
   filter: none;
   -webkit-filter: none;
 }
-.testimonials {
+.qld_approved {
   padding: 0;
   margin-bottom: 40px;
 }
-.testimonials .item {
+.qld_approved .item {
   list-style-type: none;
   margin: 0 5px;
   background: #fff;
@@ -1262,31 +1262,31 @@ fieldset[disabled] .btn-template-primary.active {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-.testimonials .item .testimonial {
+.qld_approved .item .testimonial {
   position: relative;
   padding: 20px;
 }
-.testimonials .item .testimonial:before,
-.testimonials .item .testimonial:after {
+.qld_approved .item .testimonial:before,
+.qld_approved .item .testimonial:after {
   content: " ";
   display: table;
 }
-.testimonials .item .testimonial:after {
+.qld_approved .item .testimonial:after {
   clear: both;
 }
-.testimonials .item .testimonial:before,
-.testimonials .item .testimonial:after {
+.qld_approved .item .testimonial:before,
+.qld_approved .item .testimonial:after {
   content: " ";
   display: table;
 }
-.testimonials .item .testimonial:after {
+.qld_approved .item .testimonial:after {
   clear: both;
 }
-.testimonials .item .testimonial .text {
+.qld_approved .item .testimonial .text {
   color: #999999;
   margin-bottom: 40px;
 }
-.testimonials .item .testimonial .bottom {
+.qld_approved .item .testimonial .bottom {
   position: absolute;
   left: 0;
   bottom: 0;
@@ -1297,28 +1297,28 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 20px;
   height: 50px;
 }
-.testimonials .item .testimonial .bottom .icon {
+.qld_approved .item .testimonial .bottom .icon {
   color: #7fb79e;
   font-size: 30px;
   float: left;
   width: 20%;
 }
-.testimonials .item .testimonial .name-picture {
+.qld_approved .item .testimonial .name-picture {
   float: right;
   width: 80%;
   text-align: right;
 }
-.testimonials .item .testimonial .name-picture h5 {
+.qld_approved .item .testimonial .name-picture h5 {
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
-.testimonials .item .testimonial .name-picture p {
+.qld_approved .item .testimonial .name-picture p {
   color: #999999;
   margin: 0;
   font-size: 12px;
 }
-.testimonials .item .testimonial .name-picture img {
+.qld_approved .item .testimonial .name-picture img {
   float: right;
   width: 60px;
   border-radius: 30px;
