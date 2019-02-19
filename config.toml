@@ -57,8 +57,6 @@ subtitle = "Your child may be placed on the waiting list from the 1st of July of
 title = "Enrol Now"
 [params.qld_approved]
 enable = true
-subtitle = "<table><tr><td style=\"padding: 15px; background-color: #ffffffdd;\"><div class=\"text\">Using the Early Years Learning Framework and C&K Building Waterfalls guidelines as a basis for programming, children will engage in a stimulating, engaging, challenging and relevant program focusing on their individual needs and abilities.</div></td></tr></table><br><center><img src=\"img/accreditation-890.png\" width=\"75%\"></center>"
-title = "Queensland Approved"
 [params.topbar]
 enable = false
 text = "<p class=\"hidden-sm hidden-xs\"></p>\n      <p class=\"hidden-md hidden-lg\"><a href=\"#\" data-animate-hover=\"pulse\"><i class=\"fa fa-phone\"></i></a>\n      <a href=\"#\" data-animate-hover=\"pulse\"><i class=\"fa fa-envelope\"></i></a>\n      </p>\n      "

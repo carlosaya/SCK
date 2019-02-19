@@ -1,15 +1,20 @@
 {{ if isset .Site.Params "qld_approved" }}
 {{ if .Site.Params.qld_approved.enable }}
-
 <section class="bar background-pentagon no-mb">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="heading text-center">
-                    <h2>{{ .Site.Params.qld_approved.title }}</h2>
+                    {{ if gt (len .Site.Data.qld_approved) 0 }}
+                    {{ range .Site.Data.qld_approved }}
+                    <h2>{{ .title }}</h2>
                 </div>
                 <p class="lead">
-                  {{ .Site.Params.qld_approved.subtitle | markdownify }}
+                    <table><tr><td style="padding: 15px; background-color: #ffffffdd;"><div class="text">
+                    {{ .description }}
+                    </div></td></tr></table><br><center><img src="img/accreditation-890.png" width="75%"></center>
+                    {{ end }}
+                    {{ end }}
                 </p>
                 <ul class="owl-carousel qld_approved same-height-row">
                 </ul>
@@ -18,6 +23,5 @@
         </div>
     </div>
 </section>
-
 {{ end }}
 {{ end }}
