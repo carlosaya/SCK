@@ -1,11 +1,10 @@
 <footer id="footer">
     <div class="container">
-
-        {{ if isset .Site.Params "about_us" }}
+        {{ range .Site.Data.about_us }}
         <div class="col-md-4 col-sm-6">
             <h4>{{ i18n "aboutUs" }}</h4>
 
-            {{ .Site.Params.about_us | markdownify }}
+            {{ .text | markdownify }}
 
             <hr class="hidden-md hidden-lg hidden-sm">
 
