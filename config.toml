@@ -40,7 +40,7 @@ viewmorepostlink = "./blog/"
 enable = true
 [params.supporters]
 enable = true
-subtitle = "Thank you to everyone who has helped support our Kindy in some way during 2018!"
+subtitle = "Thank you to everyone who has helped to support our Kindy!"
 title = "Thank You"
 [params.features]
 enable = false
