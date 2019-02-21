@@ -52,12 +52,15 @@
 
         <div class="col-md-4">
 
-            {{ if isset .Site.Params "address" }}
+            {{ if isset .Site.Params "address1" }}
             <section>
 
               <h3 class="text-uppercase"> {{ i18n "contactAddrTitle" }}</h3>
 
-                {{ .Site.Params.address | safeHTML }}
+              <strong>{{ .Site.Params.address1 | markdownify }}</strong><br>
+              {{ .Site.Params.address2 | markdownify }}<br>
+              {{ .Site.Params.address3 | markdownify }}<br>
+              {{ .Site.Params.address4 | markdownify }}<br><br>
 
             </section>
 

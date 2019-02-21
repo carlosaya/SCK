@@ -1,16 +1,14 @@
 <footer id="footer">
     <div class="container">
-        {{ range .Site.Data.about_us }}
         <div class="col-md-4 col-sm-6">
-            <h4>{{ i18n "aboutUs" }}</h4>
+            <h4>{{ .Site.Data.about_us.title | markdownify }}</h4>
 
-            {{ .text | markdownify }}
+            {{ .Site.Data.about_us.text | markdownify }}
 
             <hr class="hidden-md hidden-lg hidden-sm">
 
         </div>
         <!-- /.col-md-4 -->
-        {{ end }}
 
         <div class="col-md-4 col-sm-6">
 
@@ -42,12 +40,15 @@
         </div>
         <!-- /.col-md-4 -->
 
-        {{ if isset .Site.Params "address" }}
+        {{ if isset .Site.Params "address1" }}
         <div class="col-md-4 col-sm-6">
 
           <h4>{{ i18n "contactTitle" }}</h4>
 
-            {{ .Site.Params.address | markdownify }}
+            <strong>{{ .Site.Params.address1 | markdownify }}</strong><br>
+            {{ .Site.Params.address2 | markdownify }}<br>
+            {{ .Site.Params.address3 | markdownify }}<br>
+            {{ .Site.Params.address4 | markdownify }}<br><br>
 
             <a href="/contact" class="btn btn-small btn-template-main">{{ i18n "contactGoTo" }}</a>
 

@@ -58,9 +58,6 @@
 - id: recentPosts
   translation: "Recent posts"
 
-- id: aboutUs
-  translation: "About us"
-
 - id: newer
   translation: "Newer"
 

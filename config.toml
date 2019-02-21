@@ -12,18 +12,11 @@ blog = "/blog/:year/:month/:day/:filename/"
 name = "Home"
 url = "/"
 weight = 1
-[[menu.topbar]]
-name = "Email"
-pre = "<i class='fa fa-2x fa-envelope'></i>"
-url = "mailto:admin@samfordkindergarten.com.au"
-weight = 2
-[[menu.topbar]]
-name = "SamfordKindergarten"
-pre = "<i class='fa fa-2x fa-facebook'></i>"
-url = "http://facebook.com/SamfordCommunityKindergarten"
-weight = 1
 [params]
-address = "<p><strong>Samford Community Kindergarten</strong>\n        <br>17 Camp Mountain Road\n        <br>Samford Village, Queensland\n        <br>4520<br><br>\n      </p>"
+address1 = "Samford Community Kindergarten"
+address2 = "17 Camp Mountain Road"
+address3 = "Samford Village, Queensland"
+address4 = "4520"
 author = "Samford Community Kindergarten"
 copyright = "Copyright (c) 2018, Samford Community Kindergarten; all rights reserved."
 date_format = "2006-01-02 00:00"
@@ -39,23 +32,13 @@ viewmorepostlink = "./blog/"
 enable = true
 [params.supporters]
 enable = true
-subtitle = "Thank you to everyone who has helped to support our Kindy!"
-title = "Thank You"
 [params.features]
 enable = false
 [params.recent_posts]
 enable = true
-subtitle = "There's always something fun and interesting for your little ones to experience at Samford Community Kindergarten.  Please check back here regularly to see what's happening in and around the Kindy!"
-title = "From our blog"
 [params.fee_schedule]
 enable = true
 icon = "fa fa-child"
-link_text = "Enrol Now!"
 link_url = "./enrol/index.html"
-subtitle = "Your child may be placed on the waiting list from the 1st of July of the year following their birth. Children are enrolled at the Centre in order of placement on the waiting list. As waiting lists are usually long at Samford Kindy, we advise placing children’s names on the list as soon as possible."
-title = "Enrol Now"
 [params.qld_approved]
 enable = true
-[params.topbar]
-enable = false
-text = "<p class=\"hidden-sm hidden-xs\"></p>\n      <p class=\"hidden-md hidden-lg\"><a href=\"#\" data-animate-hover=\"pulse\"><i class=\"fa fa-phone\"></i></a>\n      <a href=\"#\" data-animate-hover=\"pulse\"><i class=\"fa fa-envelope\"></i></a>\n      </p>\n      "
