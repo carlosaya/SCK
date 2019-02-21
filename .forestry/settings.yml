@@ -9,19 +9,19 @@ sections:
   label: Site Config
 - type: directory
   path: data
-  label: Data
+  label: Homepage Content
   create: none
   match: "**/*.{json,yaml,yml,toml}"
+- type: directory
+  path: content
+  label: Additional Pages
+  create: all
+  match: "*"
 - type: directory
   path: content/blog
   label: Blog
   create: all
   match: "**/*"
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
