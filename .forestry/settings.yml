@@ -9,6 +9,11 @@ sections:
   label: Site Config
   match: "**/*"
 - type: directory
+  path: data
+  label: Data
+  create: none
+  match: "**/*.{json,yaml,yml,toml}"
+- type: directory
   path: content/blog
   label: Blog
   create: all
@@ -18,11 +23,6 @@ sections:
   label: Pages
   create: all
   match: "*"
-- type: directory
-  path: data
-  label: Data
-  create: none
-  match: "**/*.{json,yaml,yml,toml}"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
