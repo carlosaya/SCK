@@ -29,6 +29,7 @@ fields:
   hidden: false
   default: []
 pages:
+- content/blog/this-is-a-test-post.md
 - content/enrol.md
 - content/facilities.md
 - content/blog/candk-conference-2018.md
