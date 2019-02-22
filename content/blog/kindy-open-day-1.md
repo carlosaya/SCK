@@ -7,7 +7,7 @@ tags = []
 title = "Kindy Open Day"
 
 +++
-## **Saturday 19th May from 10am -12pm**
+## **Saturday 19th May from 11am -12pm**
 
 ### **17 Camp Mountain Rd, Samford**
 
