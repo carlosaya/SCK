@@ -4,7 +4,7 @@ categories = []
 date = "2018-04-19T11:07:31+00:00"
 draft = true
 tags = []
-title = "Kindy Open Day"
+title = "Kindy Open Day 2019"
 
 +++
 ## **Saturday 19th May from 11am -12pm**
