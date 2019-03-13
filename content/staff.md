@@ -20,7 +20,7 @@ The ongoing professional development of all staff members is encouraged by the K
 
 ### Staff of Samford Community Kindergarten 2019
 
-**Mrs Kim Rowan** – Nominated Supervisor/Co-director/Teacher Yellow Group
+**Mrs Kim Rowan** – Nominated Supervisor/Educational Leader/Co-director/Teacher 
 
 Bachelor of Education, Diploma of Teaching Early Childhood
 

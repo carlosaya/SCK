@@ -1,7 +1,6 @@
 ---
 label: default
 hide_body: false
-is_partial: false
 fields:
 - type: text
   default: ''
@@ -29,9 +28,9 @@ fields:
   hidden: false
   default: []
 pages:
-- content/enrol.md
-- content/facilities.md
-- content/blog/candk-conference-2018.md
-- content/devwl.md
-- content/program.md
 - content/waiting-listv2.md
+- content/program.md
+- content/devwl.md
+- content/blog/candk-conference-2018.md
+- content/facilities.md
+- content/enrol.md
