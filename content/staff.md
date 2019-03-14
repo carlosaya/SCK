@@ -20,11 +20,11 @@ The ongoing professional development of all staff members is encouraged by the K
 
 ### Staff of Samford Community Kindergarten 2019
 
-**Mrs Kim Rowan** – Nominated Supervisor/Educational Leader/Co-director/Teacher 
+**Mrs Kim Rowan** – Nominated Supervisor/Educational Leader/Co-director/Teacher
 
 Bachelor of Education, Diploma of Teaching Early Childhood
 
-**Mrs Madeline Sneesby** – Nominated Supervisor/Co-director/Teacher BlueGroup
+**Mrs Madeline Sneesby** – Nominated Supervisor/Co-director/Teacher Blue Group
 
 Bachelor of Education (Early Childhood)
 
