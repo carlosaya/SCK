@@ -24,10 +24,6 @@ The ongoing professional development of all staff members is encouraged by the K
 
 Bachelor of Education, Diploma of Teaching Early Childhood
 
-**Mrs Madeline Sneesby** – Nominated Supervisor/Co-director/Teacher Blue Group
-
-Bachelor of Education (Early Childhood)
-
 **Mrs Melinda Cartwright** – Teaching Assistant Blue Group
 
 Certificate III in Children’s Services
