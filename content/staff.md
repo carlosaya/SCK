@@ -20,9 +20,13 @@ The ongoing professional development of all staff members is encouraged by the K
 
 ### Staff of Samford Community Kindergarten 2019
 
-**Mrs Kim Rowan** – Nominated Supervisor/Educational Leader/Co-director/Teacher
+**Mrs Kim Rowan** – Nominated Supervisor/Educational Leader/Director/Teacher
 
 Bachelor of Education, Diploma of Teaching Early Childhood
+
+**Mrs Belinda Stowasser** – Teacher
+
+Bachelor of Early Childhood, Diploma of Children's Services
 
 **Mrs Melinda Cartwright** – Teaching Assistant Blue Group
 
