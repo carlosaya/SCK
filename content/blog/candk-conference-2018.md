@@ -7,7 +7,6 @@ tags = []
 title = "C&K Conference 2018"
 
 +++
-
 O​ur first day of Kindy holidays was spent attending the C&K conference on ​Inspiring Imagination, Cultivating language and Celebrating Diversity. It was an inspiring day beginning with two amazing guest speakers - Julie Cross and Dr. Susan Carland talking about diversity and acceptance.  This was followed by some interesting workshops where we could learn, experiment and share with other educators. 
 
 The final guest speaker was Anh Do and what a way to finish a wonderful and exhausting day! He shared with us his personal journey to get to Australia as a refugee from Vietnam, going up being very poor and how his life has evolved. He shared his journey showing humility, kindness, respect for his family and humour. He made us laugh and cry. We could've listened to him for hours!
