@@ -24,10 +24,6 @@ The ongoing professional development of all staff members is encouraged by the K
 
 Bachelor of Education, Diploma of Teaching Early Childhood
 
-**Mrs Belinda Stowasser** – Teacher
-
-Bachelor of Early Childhood, Diploma of Children's Services
-
 **Mrs Melinda Cartwright** – Teaching Assistant Blue Group
 
 Certificate III in Children’s Services
@@ -36,7 +32,7 @@ Certificate III in Children’s Services
 
 Certificate III in Education Support
 
-**Mrs Claudine Tucker** – Administration Officer and Financial Assistant
+**Mrs Claudine Tucker** – Administration & Financial Officer 
 
 Our Administration office hours are Monday and Friday from 9.00am – 2.30pm
 
