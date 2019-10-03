@@ -2,6 +2,7 @@
 banner = "/uploads/2018/07/16/image003 (1).jpg"
 categories = []
 date = "2018-07-16T21:31:41+10:00"
+draft = true
 gallery = ["/uploads/2018/07/16/IMG_0985.JPG", "/uploads/2018/07/16/IMG_0982-1.jpg"]
 tags = []
 title = "C&K Conference 2018"
