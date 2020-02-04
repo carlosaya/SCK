@@ -12,8 +12,7 @@ weight = 5
 ### Groups
 There are currently 2 groups, each attending 30 hours per fortnight:
  
-| Group | Days | Times
-| --- | --- |
+
 | Yellow group | Monday and Tuesday | 8.30am - 4.00pm |
 | Blue group | Thursday and Friday and alternating Wednesdays | 8.25am - 2.30pm
 
