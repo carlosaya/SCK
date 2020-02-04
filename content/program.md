@@ -10,10 +10,10 @@ weight = 5
 
 +++
 ### Groups
+
 There are currently 2 groups, each attending 30 hours per fortnight:
- 
-Yellow Carpet Pythons | Monday and Tuesday | 8.30am - 4.00pm
-Blue Powerful Owls | Thursday and Friday and alternating Wednesdays | 8.25am - 2.30pm
+
+The **Yellow Carpet Pythons** | Monday and Tuesday | 8.30am - 4.00pm and the **Blue Powerful Owls** | Thursday and Friday and alternating Wednesdays | 8.25am - 2.30pm
 
 ### Term dates
 
@@ -24,15 +24,15 @@ Blue Powerful Owls | Thursday and Friday and alternating Wednesdays | 8.25am - 2
 | Term 3, 2020 | 13 July - 18 September |
 | Term 4, 2020 | 5 October - 11 December |
 
-**	**
+***
 
 ### Learning framework
 
 | Framework | Link |
 | --- | --- |
-| National Quality Framework | [Early Years Learning Framework (EYLF)](http://deewr.gov.au/early-years-learning-framework) |
-| C&K Curriculum | [Building waterfalls](http://www.candk.asn.au/ck-building-waterfalls) |
- 
-**	**
+| National Quality Framework | Early Years Learning Framework (EYLF) |
+| C&K Curriculum | Building waterfalls |
+
+***
 
 **Outside kindy hours care is not currently offered.**
