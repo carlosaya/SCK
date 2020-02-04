@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2018-06-13T11:09:40Z"
+date = 2018-06-13T11:09:40Z
 tags = []
 title = "Staff"
 type = "page"
@@ -20,9 +20,13 @@ The ongoing professional development of all staff members is encouraged by the K
 
 ### Staff of Samford Community Kindergarten 2019
 
-**Mrs Kim Rowan** – Nominated Supervisor/Educational Leader/Director/Teacher
+**Mrs Kim Rowan** – Nominated Supervisor/Educational Leader/Co-Director/Teacher
 
 Bachelor of Education, Diploma of Teaching Early Childhood
+
+**Mrs Carli Wilson** – Co-Director/Teacher
+
+Bachelor of Education, Bachelor of Fine Arts
 
 **Mrs Melinda Cartwright** – Teaching Assistant Blue Group
 
@@ -32,7 +36,7 @@ Certificate III in Children’s Services
 
 Certificate III in Education Support
 
-**Mrs Claudine Tucker** – Administration & Financial Officer 
+**Mrs Claudine Tucker** – Administration & Financial Officer
 
 Our Administration office hours are Monday and Friday from 9.00am – 2.30pm
 

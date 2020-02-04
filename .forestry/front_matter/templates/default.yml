@@ -29,8 +29,8 @@ fields:
   default: []
 pages:
 - content/blog/candk-conference-2018.md
+- content/devwl.md
 - content/enrol.md
 - content/facilities.md
 - content/program.md
 - content/waiting-listv2.md
-- content/devwl.md
