@@ -29,10 +29,10 @@ There are currently 2 groups, each attending 30 hours per fortnight:
 
 ### Learning framework
 
-| Framework | Link |
+| Framework |  |
 | --- | --- |
 | National Quality Framework | Early Years Learning Framework (EYLF) |
-| C&K Curriculum | Building waterfalls |
+| C&K Curriculum | Listening and Learning Together |
 
 ***
 
