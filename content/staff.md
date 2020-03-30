@@ -46,7 +46,7 @@ Our teachers have well-established relationships with local schools, and are fo
 
 ### Training
 
-All staff hold a current Blue Card or Blue Card Exemption, Child Protection Training, Fire Safety Training, Child Care First Aid  including  yearly CPR training.
+All staff hold a current Blue Card or Blue Card Exemption, Child Protection Training, Fire Safety Training, Child Care First Aid, including yearly CPR training.
 
 ### Teacher responsibilities
 
