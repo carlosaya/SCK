@@ -1,12 +1,12 @@
 +++
 categories = []
-date = "2018-06-13T11:22:30Z"
+date = 2018-06-13T11:22:30Z
 tags = []
 title = "Fees"
 type = "page"
 
 +++
-| From 2019 | $875/term |
+| From 2020 | $900/term |
 | --- | --- |
 | Membership fee | $5 per family annually |
 | Working Bee levy | $150 annually (refundable) |
