@@ -18,7 +18,7 @@ Our experienced Early Childhood Teachers are supported by fully qualified assis
 
 The ongoing professional development of all staff members is encouraged by the Kindergarten, through regular attendance at workshops, courses, conferences and online learning.
 
-### Staff of Samford Community Kindergarten 2020
+### Staff of Samford Community Kindergarten
 
 **Mrs Kim Rowan** – Nominated Supervisor/Educational Leader/Co-Director/Teacher
 
