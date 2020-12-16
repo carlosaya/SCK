@@ -19,10 +19,10 @@ There are currently 2 groups, each attending 30 hours per fortnight:
 
 | Term | Dates |
 | --- | --- |
-| Term 1, 2020 | 27 January - 3 April |
-| Term 2, 2020 | 20 April - 26 June |
-| Term 3, 2020 | 13 July - 18 September |
-| Term 4, 2020 | 5 October - 11 December |
+| Term 1, 2021 | 25 January - 1 April |
+| Term 2, 2021 | 19 April - 25 June |
+| Term 3, 2021 | 12 July - 17 September |
+| Term 4, 2021 | 5 October - 9 December |
 
 ***
 
