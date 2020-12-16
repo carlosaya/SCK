@@ -6,7 +6,7 @@ title = "Fees"
 type = "page"
 
 +++
-| From 2020 | $900/term |
+| From 2021 | $925/term |
 | --- | --- |
 | Membership fee | $5 per family annually |
 | Working Bee levy | $150 annually (refundable) |
