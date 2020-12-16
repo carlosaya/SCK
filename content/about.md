@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2018-06-13T11:08:31Z"
+date = 2018-06-13T11:08:31Z
 tags = []
 title = "About"
 type = "page"

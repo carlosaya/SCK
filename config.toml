@@ -30,15 +30,15 @@ style = "default"
 viewmorepostlink = "./blog/"
 [params.banner]
 enable = true
-[params.supporters]
-enable = true
 [params.features]
 enable = false
-[params.recent_posts]
-enable = true
 [params.fee_schedule]
 enable = true
 icon = "fa fa-child"
 link_url = "./enrol/index.html"
 [params.qld_approved]
+enable = true
+[params.recent_posts]
+enable = true
+[params.supporters]
 enable = true
