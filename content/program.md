@@ -13,8 +13,7 @@ weight = 5
 
 There are currently 2 groups, each attending 30 hours per fortnight:
 
-**Yellow Carpet Pythons** | Monday and Tuesday | 8.30am - 4.00pm 
-**Blue Powerful Owls** | Thursday and Friday and alternating Wednesdays | 8.25am - 2.30pm
+**Yellow Carpet Pythons** | Monday and Tuesday | 8.00am - 3.30pm **Blue Powerful Owls** | Thursday and Friday and alternating Wednesdays | 8.25am - 2.30pm
 
 ### Term dates
 
