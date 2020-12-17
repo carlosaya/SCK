@@ -1,0 +1,44 @@
+baseurl = "https://www.samfordkindergarten.com.au/"
+defaultContentLanguage = "en"
+googleAnalytics = ""
+languageCode = "en-us"
+paginate = 10
+theme = "hugo-universal-theme"
+themesDir = "./themes"
+title = "Samford Kindergarten"
+[Permalinks]
+blog = "/blog/:year/:month/:day/:filename/"
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[params]
+address1 = "Samford Community Kindergarten"
+address2 = "17 Camp Mountain Road"
+address3 = "Samford Village, Queensland"
+address4 = "4520"
+author = "Samford Community Kindergarten"
+copyright = "Copyright (c) 2018, Samford Community Kindergarten; all rights reserved."
+date_format = "2006-01-02 00:00"
+defaultdescription = "Samford Community Kindergarten"
+defaultkeywords = []
+googlemapsapikey = "AIzaSyDRyBNMdqcHvIhp_gtEkBOwsU5oBKVg3Wg"
+latitude = "-27.377481"
+logo = "img/logo.png"
+longitude = "152.888002"
+style = "default"
+viewmorepostlink = "./blog/"
+[params.banner]
+enable = true
+[params.features]
+enable = false
+[params.fee_schedule]
+enable = true
+icon = "fa fa-child"
+link_url = "./enrol/index.html"
+[params.qld_approved]
+enable = true
+[params.recent_posts]
+enable = true
+[params.supporters]
+enable = true

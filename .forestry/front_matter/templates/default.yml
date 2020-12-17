@@ -1,0 +1,36 @@
+---
+label: default
+hide_body: false
+fields:
+- type: text
+  default: ''
+  label: Title for your blog post
+  name: title
+  config:
+    required: true
+- type: file
+  name: banner
+  label: Banner image for the blog post
+- type: image_gallery
+  name: gallery
+  label: Image Gallery
+  description: 'Optionally upload a gallery of images for this blog post.  You must
+    include the following in your post to include the gallery: {{< load-photoswipe
+    >}}  {{< gallery dir="/uploads/YYYY/MM/DD/" >}}'
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: []
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: []
+pages:
+- content/blog/candk-conference-2018.md
+- content/devwl.md
+- content/enrol.md
+- content/facilities.md
+- content/program.md
+- content/waiting-listv2.md

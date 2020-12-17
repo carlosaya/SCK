@@ -1,0 +1,23 @@
+{{ if isset .Site.Params "qld_approved" }}
+{{ if .Site.Params.qld_approved.enable }}
+<section class="bar background-pentagon no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>{{ .Site.Data.qld_approved.title }}</h2>
+                </div>
+                <p class="lead">
+                    <table><tr><td style="padding: 15px; background-color: #ffffffdd;"><div class="text">
+                    {{ .Site.Data.qld_approved.description }}
+                    </div></td></tr></table><br><center><img src="img/accreditation-890.png" width="75%"></center>
+                </p>
+                <ul class="owl-carousel qld_approved same-height-row">
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
