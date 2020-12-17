@@ -42,3 +42,7 @@ enable = true
 enable = true
 [params.supporters]
 enable = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
