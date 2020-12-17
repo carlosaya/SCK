@@ -44,7 +44,7 @@ On 11th May 2017  the Samford Community Kindergarten Committee  conducted a v
 
 **Statement of Fees**
 
-Queensland Government Statement of Fees can be found [here](https://www.samfordkindergarten.com.au/uploads/2018/08/17/statement-of-fees-Samford Kindergarten 2018.pdf).
+Queensland Government Statement of Fees can be found [here](https://www.samfordkindergarten.com.au/uploads/2018/08/17/statement-of-fees-Samford%20Kindergarten%202018.pdf).
 
 **Queensland Kindergarten Funding Scheme (QKFS)**
 
