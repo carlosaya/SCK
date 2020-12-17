@@ -40,7 +40,7 @@ The full waiting list policy can be found [here](https://www.samfordkindergarten
 
 On 11th May 2017  the Samford Community Kindergarten Committee  conducted a vote of the current 2017 parents for the introduction of the Immunisation Policy. The results of this vote were unanimously for the introduction of the Immunisation Policy. This policy is effective as of 1 January 2018.
 
-[Click here to view the Immunisation Policy](https://www.samfordkindergarten.com.au/uploads/2018/08/07/ImmunisationPolicy.pdf)
+[Click here to view the Immunisation Policy](https://www.samfordkindergarten.com.au/uploads/2018/08/07/ImmunisationPolicy.pdf "Immunisation Policy")
 
 **Statement of Fees**
 
