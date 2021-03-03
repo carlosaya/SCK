@@ -1,0 +1,10 @@
+---
+label: From Our Blog new template
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: subtitle
+  label: subtitle
