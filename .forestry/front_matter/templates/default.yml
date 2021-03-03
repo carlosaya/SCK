@@ -8,6 +8,7 @@ fields:
   name: title
   config:
     required: true
+  hidden: true
 - name: tags
   label: Tags
   type: tag_list
