@@ -9,6 +9,11 @@ fields:
   config:
     required: true
   hidden: false
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
 - name: tags
   label: Tags
   type: tag_list
@@ -19,11 +24,6 @@ fields:
   type: tag_list
   hidden: false
   default: []
-- name: image
-  type: file
-  config:
-    maxSize: 64
-  label: Image
 pages:
 - content/blog/candk-conference-2018.md
 - content/blog/come-and-see-what-our-children-experience-at-kindy.md
