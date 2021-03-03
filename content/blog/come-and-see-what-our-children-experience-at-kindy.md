@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "/uploads/2021/03/03/come-and-see-banner.png"
 categories = []
 gallery = []
 tags = []
