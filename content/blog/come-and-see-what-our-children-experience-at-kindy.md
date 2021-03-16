@@ -1,7 +1,6 @@
 +++
 banner = ""
 categories = []
-draft = true
 gallery = []
 image = ""
 tags = []
