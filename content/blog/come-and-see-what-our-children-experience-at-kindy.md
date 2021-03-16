@@ -1,8 +1,9 @@
 +++
 banner = ""
 categories = []
+draft = true
 gallery = []
-image = "/uploads/2021/03/03/come-and-see-banner.png"
+image = ""
 tags = []
 title = "Come and see what our children experience at kindy"
 
