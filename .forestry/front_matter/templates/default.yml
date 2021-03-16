@@ -9,11 +9,11 @@ fields:
   config:
     required: true
   hidden: false
-- name: image
+- name: banner
   type: file
   config:
     maxSize: 64
-  label: Image
+  label: Banner Image
 - name: tags
   label: Tags
   type: tag_list
