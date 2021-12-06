@@ -24,21 +24,9 @@ The ongoing professional development of all staff members is encouraged by the K
 
 Bachelor of Education, Diploma of Teaching Early Childhood
 
-**Mrs Carli Wilson** – Co-Director/Teacher
-
-Bachelor of Education, Bachelor of Fine Arts
-
-**Mrs Melinda Cartwright** – Teaching Assistant Blue Group
-
-Certificate III in Children’s Services
-
 **Mrs Tanya Donaghey** – Teaching Assistant Yellow Group
 
 Certificate III in Education Support
-
-**Mrs Claudine Tucker** – Administration & Financial Officer
-
-Our Administration office hours are Monday and Friday from 9.00am – 2.30pm
 
 ### Transition to school
 
