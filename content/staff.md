@@ -20,13 +20,17 @@ The ongoing professional development of all staff members is encouraged by the K
 
 ### Staff of Samford Community Kindergarten
 
-**Mrs Kim Rowan** – Nominated Supervisor/Co-Director/Teacher Yellow Group
+**Mrs Sue Meek** – Nominated Supervisor/Director/Teacher Yellow and Blue Groups
 
-Bachelor of Education, Diploma of Teaching Early Childhood
+Diploma of Teaching Early Childhood
 
 **Mrs Tanya Donaghey** – Teaching Assistant Yellow Group
 
 Certificate III in Education Support
+
+**Mrs Justine McCabe**
+
+Diploma Montessori Method of Education 
 
 ### Transition to school
 
