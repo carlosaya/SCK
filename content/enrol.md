@@ -9,7 +9,7 @@ title = "Enrol Now"
 weight = 6
 
 +++
-## [**Click here to Enrol Now for the 2022 - 2025 waiting lists**](https://www.samfordkindergarten.com.au/waiting-listv2/)
+![](/uploads/2022/06/06/sck-open-day.pdf)## [**Click here to Enrol Now for the 2022 - 2025 waiting lists**](https://www.samfordkindergarten.com.au/waiting-listv2/)
 
 Waiting list places are determined by receipt of both the form and fee (whether this is completed online or in person). The $30 non-refundable waiting list fee **must** be received by Samford Community Kindergarten **within 3 working days** of the form being submitted, otherwise your submission is unfortunately invalid.
 
@@ -58,4 +58,4 @@ Please be advised that Samford Community Kindergarten does not have a sibling po
 | 1 July 2017 to 30 June 2018 | 2022 | Now Open |
 | 1 July 2018 to 30 June 2019 | 2023 | Now Open |
 | 1 July 2019 to 30 June 2020 | 2024 | Now Open |
-| 1 July 2020 to 30 June 2021 | 2025 | Now Open |
+| 1 July 2020 to 30 June 2021 | 2025 | Now Open |![](/uploads/2022/06/06/sck-open-day.pdf)
