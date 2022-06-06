@@ -35,4 +35,4 @@ There are currently 2 groups, each attending 30 hours per fortnight:
 
 ***
 
-**Outside kindy hours care is not currently offered.**
+**Outside kindy hours care is not offered at our Centre.**
