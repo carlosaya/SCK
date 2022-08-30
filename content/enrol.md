@@ -9,7 +9,7 @@ title = "Enrol Now"
 weight = 6
 
 +++
-![](/uploads/2022/06/06/sck-open-day.pdf)## [**Click here to Enrol Now for the 2022 - 2025 waiting lists**](https://www.samfordkindergarten.com.au/waiting-listv2/)
+![](/uploads/2022/06/06/sck-open-day.pdf) [**Click here to Enrol Now for the 2022 - 2026 waiting lists**](https://www.samfordkindergarten.com.au/waiting-listv2/)
 
 Waiting list places are determined by receipt of both the form and fee (whether this is completed online or in person). The $30 non-refundable waiting list fee **must** be received by Samford Community Kindergarten **within 3 working days** of the form being submitted, otherwise your submission is unfortunately invalid.
 
@@ -42,10 +42,6 @@ On 11th May 2017  the Samford Community Kindergarten Committee  conducted a v
 
 [Click here to view the Immunisation Policy](https://www.samfordkindergarten.com.au/uploads/2018/08/07/ImmunisationPolicy.pdf "Immunisation Policy")
 
-**Statement of Fees**
-
-Queensland Government Statement of Fees can be found [here](https://www.samfordkindergarten.com.au/uploads/2018/08/17/statement-of-fees-Samford%20Kindergarten%202018.pdf).
-
 **Queensland Kindergarten Funding Scheme (QKFS)**
 
 If your child is of eligible age, our service may be entitled to claim QKFS funding on behalf of you child. If your child is enrolled at another kindergarten program and they are claiming the QKFS for your child, our service will not be able to claim the funding. You will need to notify us if your child is enrolled and claiming at another kindergarten.
@@ -58,4 +54,4 @@ Please be advised that Samford Community Kindergarten does not have a sibling po
 | 1 July 2017 to 30 June 2018 | 2022 | Now Open |
 | 1 July 2018 to 30 June 2019 | 2023 | Now Open |
 | 1 July 2019 to 30 June 2020 | 2024 | Now Open |
-| 1 July 2020 to 30 June 2021 | 2025 | Now Open |![](/uploads/2022/06/06/sck-open-day.pdf)
+| 1 July 2020 to 30 June 2021 | 2025 | Now Open |
