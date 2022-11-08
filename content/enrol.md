@@ -9,12 +9,13 @@ title = "Enrol Now"
 weight = 6
 
 +++
-![](/uploads/2022/06/06/sck-open-day.pdf) [**Click here to Enrol Now for the 2022 - 2026 waiting lists**](https://www.samfordkindergarten.com.au/waiting-listv2/)
+[**Click here to Enrol Now for the 2022 - 2026 waiting lists**](https://www.samfordkindergarten.com.au/waiting-listv2/)
 
 Waiting list places are determined by receipt of both the form and fee (whether this is completed online or in person). The $30 non-refundable waiting list fee **must** be received by Samford Community Kindergarten **within 3 working days** of the form being submitted, otherwise your submission is unfortunately invalid.
 
 To place your child’s name on the waiting list, parents are asked to complete the online waiting list form and pay a non-refundable waiting list fee of $30. The completed booking form will be sent to us and you will receive a confirmation email. You will then be required to pay via direct deposit or by visiting a Bendigo Bank branch to complete payment of the booking fee.
 
+**ACCOUNT NAME**: Samford Community Kindergarten  
 **BSB**: 633 000  
 **ACCOUNT**: 146 731 898
 
