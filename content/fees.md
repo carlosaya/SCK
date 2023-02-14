@@ -6,7 +6,7 @@ title = "Fees"
 type = "page"
 
 +++
-| As at 2021 | $925/term |
+| As at 2023 | $1125/term |
 | --- | --- |
 | Membership fee | $5 per family annually |
 | Working Bee levy | $150 annually (refundable) |
@@ -14,7 +14,7 @@ type = "page"
 
 ** **
 
-_Fees are reviewed annually and subject to change.  Fees are due no later than 2:30pm on Friday of week 2 in each term._
+_Fees are reviewed annually and subject to change.  
 
 The Queensland Government subsidises part of the cost of every eligible child, and the remainder is paid in fees.  Additional funds are raised by the committee through fundraising and grants.
 
