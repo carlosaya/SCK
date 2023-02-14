@@ -15,7 +15,7 @@ Outdoor play areas feature a vegetable patch, fairy garden, sand, water and a w
 
 We continue to rejuvenate our outdoor environment.
 
-In 2015, our Parent community helped us plant native trees and shrubs to increase our native flora and fauna and  our vegetable gardens have been producing wonderful vegetables each year.
+In 2021, our Parent community helped us plant native trees and shrubs to increase our native flora and fauna and  our vegetable gardens have been producing wonderful vegetables each year.
 
 In 2016 we were fortunate to receive a Road safety grant to build a textured bike path and begin a road safety program with the children.
 
