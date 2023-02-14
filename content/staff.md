@@ -19,13 +19,13 @@ Diploma of Teaching Early Childhood
 
 Certificate III in Education Support
 
-**Mrs Justine McCabe**
+**Mrs Justine McCabe** – Teaching Assistant Blue Group
 
 Diploma Montessori Method of Education
 
 ### Education
 
-Our program is delivered by an experienced, dedicated and enthusiastic team,who are committed to educating and caring for our children.
+Our program is delivered by an experienced, dedicated and enthusiastic team, who are committed to educating and caring for our children.
 
 _All staff have completed early childhood education, including child development, child psychology, teaching strategies and observation skills._
 
