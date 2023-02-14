@@ -41,8 +41,7 @@ Please be advised that Samford Community Kindergarten does not have a sibling po
 
 | Child born between: | Attends Kindy | Place on waiting list from: |
 | --- | --- | --- |
-| 1 July 2016 to 30 June 2017 | 2021 | Now Open |
-| 1 July 2017 to 30 June 2018 | 2022 | Now Open |
-| 1 July 2018 to 30 June 2019 | 2023 | Now Open |
+
 | 1 July 2019 to 30 June 2020 | 2024 | Now Open |
 | 1 July 2020 to 30 June 2021 | 2025 | Now Open |
+| 1 July 2021 to 30 June 2022 | 2026 | Now Open |
