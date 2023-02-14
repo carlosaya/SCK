@@ -12,9 +12,9 @@ type = "page"
 | Working Bee levy | $150 annually (refundable) |
 | Maintenance Levy | $150 annually (non-refundable) |
 
-** **
+***
 
-_Fees are reviewed annually and subject to change.  
+Fees are reviewed annually and subject to change.
 
 The Queensland Government subsidises part of the cost of every eligible child, and the remainder is paid in fees.  Additional funds are raised by the committee through fundraising and grants.
 
