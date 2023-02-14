@@ -33,10 +33,6 @@ By completing the waiting list form and submitting the booking fee payment you a
 
 Children must be at least 4 years old by 30 June in the year they are enrolled in an approved kindergarten program.
 
-**Waiting List Policy**
-
-The full waiting list policy can be found [here](https://www.samfordkindergarten.com.au/uploads/2018/08/07/WaitingListPolicy.pdf).
-
 **Queensland Kindergarten Funding (QKF)**
 
 If your child is of eligible age, our service may be entitled to claim funding on behalf of you child. If your child is enrolled at another kindergarten program and they are claiming the funding for your child, our service will not be able to claim the funding. You will need to notify us if your child is enrolled and claiming at another kindergarten.
