@@ -8,15 +8,6 @@ type = "page"
 weight = 3
 
 +++
-### Education
-
-Our program is delivered by an experienced, dedicated and enthusiastic team,who are committed to educating and caring for our children.
-
-_All staff have completed early childhood education, including child development, child psychology, teaching strategies and observation skills._
-
-Our experienced Early Childhood Teachers are supported by fully qualified assistants, in order to maximise learning opportunities and to provide a supportive and nurturing environment.
-
-The ongoing professional development of all staff members is encouraged by the Kindergarten, through regular attendance at workshops, courses, conferences and online learning.
 
 ### Staff of Samford Community Kindergarten
 
@@ -30,7 +21,17 @@ Certificate III in Education Support
 
 **Mrs Justine McCabe**
 
-Diploma Montessori Method of Education 
+Diploma Montessori Method of Education
+
+### Education
+
+Our program is delivered by an experienced, dedicated and enthusiastic team,who are committed to educating and caring for our children.
+
+_All staff have completed early childhood education, including child development, child psychology, teaching strategies and observation skills._
+
+Our experienced Early Childhood Teachers are supported by fully qualified assistants, in order to maximise learning opportunities and to provide a supportive and nurturing environment.
+
+The ongoing professional development of all staff members is encouraged by the Kindergarten, through regular attendance at workshops, courses, conferences and online learning.
 
 ### Transition to school
 
