@@ -19,10 +19,10 @@ There are currently 2 groups, each attending 30 hours per fortnight:
 
 | Term | Dates |
 | --- | --- |
-| Term 1, 2022 | 24 January - 1 April |
-| Term 2, 2022 | 19 April - 24 June |
-| Term 3, 2022 | 11 July - 16 September |
-| Term 4, 2022 | 4 October - 8 December |
+| Term 1, 2023 | 23 January - 31 March |
+| Term 2, 2023 | 17 April - 23 June |
+| Term 3, 2023 | 10 July - 15 September |
+| Term 4, 2023 | 3 October - 8 December |
 
 ***
 
@@ -32,6 +32,7 @@ There are currently 2 groups, each attending 30 hours per fortnight:
 | --- | --- |
 | National Quality Framework | Early Years Learning Framework (EYLF) |
 | C&K Curriculum | Listening and Learning Together |
+| QKLG | Queensland Kindergarten Learning Guidelines |
 
 ***
 
