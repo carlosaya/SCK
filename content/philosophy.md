@@ -37,5 +37,3 @@ As advocates for early childhood education, the qualified staff at Samford Kinde
 As a community of learners, we respectfully acknowledge the Turrbal and the Yuggera people as the traditional owners of the land. We embrace children's diversity as well as the culture of others in our community and the wider world.
 
 _This Philosophy was reviewed in collaboration with children, families, the team, community and management - February 2020._
-
-_Next review to occur February 2021._
