@@ -44,5 +44,5 @@ Please be advised that Samford Community Kindergarten does not have a sibling po
 | 1 July 2019 to 30 June 2020 | 2024 | Now Open |
 | 1 July 2020 to 30 June 2021 | 2025 | Now Open |
 | 1 July 2021 to 30 June 2022 | 2026 | Now Open |
-
-
+| 1 July 2022 to 30 June 2023 | 2027 | Now Open |
+| 1 July 2023 to 30 June 2024 | 2028 | 1 July 2023|
