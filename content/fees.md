@@ -6,7 +6,7 @@ title = "Fees"
 type = "page"
 
 +++
-| As at 2023 | $1125/term* |
+| As at 2023 | $750/term* |
 | --- | --- |
 | Membership fee | $5 per family annually |
 | Working Bee levy | $150 annually (refundable) |
@@ -16,7 +16,7 @@ type = "page"
 
 Fees are reviewed annually and subject to change.
 
-*Most families will receive $375 per term discount on fees indicated due to new Government kindergarten funding. 
+*Above fees apply to families who select to receive Queensland Kindergarten Funding (QKF) at Samford Community Kindergarten. Higher fees will apply to families who select to receive QKF at a different centre. Further fee reductions (subsidies) are available to families eligible for Kindy Plus or FTB.
 
 The Queensland Government subsidises part of the cost of every eligible child, and the remainder is paid in fees.  Additional funds are raised by the committee through fundraising and grants.
 
