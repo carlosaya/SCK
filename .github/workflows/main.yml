@@ -30,6 +30,12 @@ jobs:
         with:
           hugo-version: '0.75.1'
           # extended: true
+          
+      - name: Build TinaCMS
+        env:
+          TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
+          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+        run: npx tinacms build
 
       - name: Build
         run: hugo --minify
