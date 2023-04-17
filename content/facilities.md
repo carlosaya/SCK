@@ -1,14 +1,16 @@
 +++
 banner = ""
-categories = []
+categories = [ ]
 date = "2018-06-17T11:50:09+00:00"
-gallery = []
-tags = []
+gallery = [ ]
+tags = [ ]
 title = "Facilities"
+_template = "default"
+
 [menu.main]
 weight = 4
-
 +++
+
 Samford Kindergarten boasts an enviable range of resources and facilities, including stimulating indoor and outdoor environments. Our library meets children’s desires to curl-up and read, and our creative program encourages children to explore their creative tendencies.
 
 Outdoor play areas feature a vegetable patch, fairy garden, sand, water and a wide range of adventure play equipment.  These play areas include paved and covered areas, ensuring that children can enjoy outdoor activities throughout the year.

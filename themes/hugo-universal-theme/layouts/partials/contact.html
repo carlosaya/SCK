@@ -52,15 +52,15 @@
 
         <div class="col-md-4">
 
-            {{ if isset .Site.Params "address1" }}
+            {{ if isset .Site.Data.config.config "address1" }}
             <section>
 
               <h3 class="text-uppercase"> {{ i18n "contactAddrTitle" }}</h3>
 
-              <strong>{{ .Site.Params.address1 | markdownify }}</strong><br>
-              {{ .Site.Params.address2 | markdownify }}<br>
-              {{ .Site.Params.address3 | markdownify }}<br>
-              {{ .Site.Params.address4 | markdownify }}<br><br>
+              <strong>{{ .Site.Data.config.config.address1 | markdownify }}</strong><br>
+              {{ .Site.Data.config.config.address2 | markdownify }}<br>
+              {{ .Site.Data.config.config.address3 | markdownify }}<br>
+              {{ .Site.Data.config.config.address4 | markdownify }}<br><br>
 
             </section>
 

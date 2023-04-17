@@ -5,11 +5,11 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="heading text-center">
-                    <h2>{{ .Site.Data.supporters.content.section_title }}</h2>
+                    <h2>{{ .Site.Data.sponsors.title }}</h2>
                 </div>
                 <center>
                 <p class="lead">
-                  {{ .Site.Data.supporters.content.subtitle }}
+                  {{ .Site.Data.sponsors.text }}
                 </p>
                 {{ if gt (len .Site.Data.supporters.companies) 0 }}
                 <ul class="owl-carousel customers">

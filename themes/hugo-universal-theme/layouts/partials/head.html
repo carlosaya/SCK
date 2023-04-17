@@ -14,8 +14,8 @@
 
   {{ if .Description }}
   <meta name="description" content="{{ .Description }}">
-  {{ else if .Site.Params.DefaultDescription }}
-  <meta name="description" content="{{ .Site.Params.DefaultDescription }}">	
+  {{ else if .Site.Data.config.config.defaultDescription }}
+  <meta name="description" content="{{ .Site.Data.config.config.defaultDescription }}">	
   {{ end }}
 
   {{ .Hugo.Generator }}

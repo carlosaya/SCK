@@ -40,15 +40,15 @@
         </div>
         <!-- /.col-md-4 -->
 
-        {{ if isset .Site.Params "address1" }}
+        {{ if isset .Site.Data.config.config "address1" }}
         <div class="col-md-4 col-sm-6">
 
           <h4>{{ i18n "contactTitle" }}</h4>
 
-            <strong>{{ .Site.Params.address1 | markdownify }}</strong><br>
-            {{ .Site.Params.address2 | markdownify }}<br>
-            {{ .Site.Params.address3 | markdownify }}<br>
-            {{ .Site.Params.address4 | markdownify }}<br><br>
+            <strong>{{ .Site.Data.config.config.address1 | markdownify }}</strong><br>
+            {{ .Site.Data.config.config.address2 | markdownify }}<br>
+            {{ .Site.Data.config.config.address3 | markdownify }}<br>
+            {{ .Site.Data.config.config.address4 | markdownify }}<br><br>
 
             <a href="/contact" class="btn btn-small btn-template-main">{{ i18n "contactGoTo" }}</a>
 
@@ -72,8 +72,8 @@ _________________________________________________________ -->
 <div id="copyright">
     <div class="container">
         <div class="col-md-12">
-            {{ if isset .Site.Params "copyright" }}
-            <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
+            {{ if isset .Site.Data.config.config "copyright" }}
+            <p class="pull-left">{{ .Site.Data.config.config.copyright | safeHTML }}</p>
             {{ end }}
             <p class="pull-right">
               {{ i18n "templateBy" }} <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.

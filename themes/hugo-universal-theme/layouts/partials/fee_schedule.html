@@ -81,19 +81,19 @@
             <div class="col-md-12">
                 <div class="icon icon-lg"><i class="{{ .Site.Params.fee_schedule.icon }}"></i>
                 </div>
-                <h3 class="text-uppercase">{{ .Site.Data.fees.title }}</h3>
-                <p class="lead">{{ .Site.Data.fees.subtitle }}</p>
+                <h3 class="text-uppercase">{{ .Site.Data.fees.fees.title }}</h3>
+                <p class="lead">{{ .Site.Data.fees.fees.text }}</p>
                 <p class="text-center">
-                    <a href="{{ .Site.Params.fee_schedule.link_url }}" class="btn btn-template-transparent-black btn-lg">{{ .Site.Data.fees.button_text }}</a>
+                    <a href="{{ .Site.Params.fee_schedule.link_url }}" class="btn btn-template-transparent-black btn-lg">{{ .Site.Data.fees.fees.button_text }}</a>
                 </p>
                 <br>
                 <div>
                     <ul class="price">
                     <li class="header" style="background-color:#7fb79e;">Fees</li>
-                    <li class="grey"><b>${{ .Site.Data.fees.term }} / Term</b></li>
-                    <li class="white"><b>Membership</b><br>${{ .Site.Data.fees.membership }} / year</li>
-                    <li class="white"><b>Working Bee Levy</b><br>${{ .Site.Data.fees.working_bee }} / Year<br>{{ .Site.Data.fees.working_bee_policy }}</li>
-                    <li class="white"><b>Maintenance Levy</b><br>${{ .Site.Data.fees.maintenance }} / Year<br>{{ .Site.Data.fees.maintenance_policy }}</li>
+                    <li class="grey"><b>${{ .Site.Data.fees.fees.term }} / Term</b></li>
+                    <li class="white"><b>Membership</b><br>${{ .Site.Data.fees.fees.membership }} / year</li>
+                    <li class="white"><b>Working Bee Levy</b><br>${{ .Site.Data.fees.fees.working_bee }} / Year<br>{{ .Site.Data.fees.fees.working_bee_policy }}</li>
+                    <li class="white"><b>Maintenance Levy</b><br>${{ .Site.Data.fees.fees.maintenance }} / Year<br>{{ .Site.Data.fees.fees.maintenance_policy }}</li>
                     <li class="grey2"><a href="https://www.samfordkindergarten.com.au/fees/" class="button">More Info</a></li>
                     </ul>
                 </div>

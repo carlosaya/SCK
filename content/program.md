@@ -1,14 +1,16 @@
 +++
 banner = ""
-categories = []
+categories = [ ]
 date = "2018-06-17T11:27:58+00:00"
-gallery = []
-tags = []
+gallery = [ ]
+tags = [ ]
 title = "Program"
+_template = "default"
+
 [menu.main]
 weight = 5
-
 +++
+
 ### Groups
 
 There are currently 2 groups, each attending 30 hours per fortnight:
