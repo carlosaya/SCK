@@ -37,7 +37,7 @@ jobs:
           node-version: "16"
       
       - name: Install dependencies
-        run: npm install
+        run: npm ci
           
       - name: Build TinaCMS
         env:
@@ -51,7 +51,10 @@ jobs:
       - name: Browse
         run: |
           pwd
-          ls -lah
+          ls -lah ./public
+          ls -lah ./public/admin
+          ls -lah ./static
+          ls -lah ./static/admin
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
