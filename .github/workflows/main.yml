@@ -41,8 +41,8 @@ jobs:
           
       - name: Build TinaCMS
         env:
-          TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
-          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+          TINA_PUBLIC_CLIENT_ID: a1081202-dd11-443d-b2e4-c69e2605a36a
+          TINA_TOKEN: 563e6952dbebea6bb8d2db0bde8ac892c8b1b70b
         run: npx tinacms build
 
       - name: Build
