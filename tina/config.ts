@@ -6,8 +6,8 @@ const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "master"
 
 export default defineConfig({
   branch,
-  clientId: process.env.TINA_PUBLIC_CLIENT_ID!, // Get this from tina.io
-  token: process.env.TINA_TOKEN!, // Get this from tina.io
+  clientId: "2d3877a7-7730-44c3-8e8f-6f7a61d31c43", // Get this from tina.io
+  token: "17cf9c56f2c0308fa26ef4dc0e64936e4f944e43", // Get this from tina.io
   client: { skip: true },
   build: {
     outputFolder: "admin",
@@ -16,7 +16,7 @@ export default defineConfig({
   media: {
     tina: {
       mediaRoot: "uploads",
-      publicFolder: "./",
+      publicFolder: ".",
     },
   },
   schema: {
