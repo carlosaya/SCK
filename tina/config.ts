@@ -3,11 +3,13 @@ import { blog_templateFields } from "./templates";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "master";
+const clientId = process.env.TINA_PUBLIC_CLIENT_ID || "";
+const token = process.env.TINA_TOKEN || "";
 
 export default defineConfig({
   branch,
-  clientId: "2d3877a7-7730-44c3-8e8f-6f7a61d31c43", // Get this from tina.io
-  token: "d1f466ca8ee2bcf9861717b3649da053793b9769", // Get this from tina.io
+  clientId: clientId, // Get this from tina.io
+  token: token, // Get this from tina.io
   client: { skip: true },
   build: {
     outputFolder: "admin",
@@ -16,7 +18,7 @@ export default defineConfig({
   media: {
     tina: {
       mediaRoot: "uploads",
-      publicFolder: "/",
+      publicFolder: ".",
     },
   },
   schema: {
