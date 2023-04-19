@@ -48,13 +48,12 @@ jobs:
       - name: Build
         run: hugo --minify
         
-      - name: Browse
+      - name: Remove gitignore
         run: |
-          pwd
-          ls -lah ./public
-          ls -lah ./public/admin
-          ls -lah ./static
-          ls -lah ./static/admin
+          rm -f ./public/admin/.gitignore
+          rm -f ./static/admin/.gitignore
+          ls -lahr ./public/admin
+          ls -lahr ./static/admin
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
