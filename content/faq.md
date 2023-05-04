@@ -1,17 +1,18 @@
 +++
 description = "Frequently asked questions"
-keywords = ["FAQ"]
+keywords = [ "FAQ" ]
 title = "FAQ"
 type = "page"
+
 [menu.main]
 weight = 7
-
 +++
-## [![IMG](https://www.samfordkindergarten.com.au/uploads/IMG_0488-300x225.jpg)](https://www.samfordkindergarten.com.au/uploads/IMG_0488.jpg)[![IMG](https://www.samfordkindergarten.com.au/uploads/IMG_4786-200x300.jpg)](https://www.samfordkindergarten.com.au/uploads/IMG_4786.jpg)
+
+## [![IMG](/uploadshttps://www.samfordkindergarten.com.au/IMG_0488-300x225.jpg)](https://www.samfordkindergarten.com.au/uploads/IMG_0488.jpg)[![IMG](/uploadshttps://www.samfordkindergarten.com.au/IMG_4786-200x300.jpg)](https://www.samfordkindergarten.com.au/uploads/IMG_4786.jpg)
 
 **What's so special about Samford Kindy?**
 
-Samford Kindy has been established for nearly 40 years, and runs a locally well-respected and highly regarded Approved Kindergarten Program, under the Early Years Learning framework and the C&K Curriculum.
+Samford Kindy has been established for nearly 40 years, and runs a locally well-respected and highly regarded Approved Kindergarten Program, under the Early Years Learning framework and the C\&K Curriculum.
 
 We have been assessed as "Exceeding" the National Quality Standard.
 
@@ -51,9 +52,9 @@ Samford Kindy is a very popular choice among locals, and while camping out to ge
 
 ***
 
-**Do you provide food and nappies?**
+**Do you provide food?**
 
-No, Children bring their own packed morning tea and lunch from home​ and our children must turn 4 by June 30th in the year they attend Kindy.​
+No, Children bring their own packed morning tea and lunch from home​.
 
 ***
 
@@ -71,7 +72,7 @@ At this stage no, we are happy to take children from the Samford and neighbourin
 
 **Are there incursions included in the Kindy program?**
 
-We do have an interesting program of visiting productions and presentations for children each year that is included in your program.
+We do have an interesting program of visiting productions and presentations for children each year that is included in your program. In 2023 this has included Geckoes Wildlife, Indigenous Insights and Evergreen Children's Theatre.
 
 ***
 
@@ -83,7 +84,7 @@ Yes, fees are based on children attending all programmed days and that is why f
 
 **Will I be encouraged to take part in fundraising activities?**
 
-Because we are a community kindergarten, we need to supplement our government funding through applying for grants and fundraising. Fund raising is an important source of additional funds for resources and improvements.
+Because we are a community kindergarten, we need to supplement our government funding through applying for grants and fundraising. Fundraising is an important source of additional funds for resources and improvements.
 
 ***
 
