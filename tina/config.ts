@@ -155,19 +155,19 @@ export default defineConfig({
             isBody: false,
           },
           {
-            type: "number",
+            type: "string",
             name: "term",
             label: "Cost per term",
             isBody: false,
           },
           {
-            type: "number",
+            type: "string",
             name: "membership",
             label: "Membership Cost",
             isBody: false,
           },
           {
-            type: "number",
+            type: "string",
             name: "working_bee",
             label: "Working Bee Levy",
             isBody: false,
@@ -179,7 +179,7 @@ export default defineConfig({
             isBody: false,
           },
           {
-            type: "number",
+            type: "string",
             name: "maintenance",
             label: "Maintenance Levy",
             isBody: false,

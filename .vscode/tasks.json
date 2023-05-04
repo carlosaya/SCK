@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Run dev site",
+			"command": "npx tinacms dev -c 'hugo server -D -p 1313'",
+			"group": "build"
+		}
+	]
+}
