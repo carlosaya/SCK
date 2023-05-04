@@ -1,12 +1,12 @@
 +++
-categories = []
-date = 2018-06-13T11:09:40Z
-tags = []
+categories = [ ]
+date = "2018-06-13T11:09:40.000Z"
+tags = [ ]
 title = "Staff"
 type = "page"
+
 [menu.main]
 weight = 3
-
 +++
 
 ### Staff of Samford Community Kindergarten
@@ -27,7 +27,7 @@ Diploma Montessori Method of Education
 
 Our program is delivered by an experienced, dedicated and enthusiastic team, who are committed to educating and caring for our children.
 
-_All staff have completed early childhood education, including child development, child psychology, teaching strategies and observation skills._
+*All staff have completed early childhood education, including child development, child psychology, teaching strategies and observation skills.*
 
 Our experienced Early Childhood Teachers are supported by fully qualified assistants, in order to maximise learning opportunities and to provide a supportive and nurturing environment.
 
@@ -44,3 +44,7 @@ All staff hold a current Blue Card or Blue Card Exemption, Child Protection Trai
 ### Teacher responsibilities
 
 Our staff are responsible for the day-to-day planning and implementation of the educational program, including working with children, parents and the community.
+
+### Committee
+
+Our Kindy is a Community owned centre operated by a committee made up of parents of attending children. The committee are voted in each year and work closely throughout the year with the Director and staff.
