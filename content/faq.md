@@ -8,7 +8,7 @@ type = "page"
 weight = 7
 +++
 
-## [![IMG](/uploadshttps://www.samfordkindergarten.com.au/IMG_0488-300x225.jpg)](https://www.samfordkindergarten.com.au/uploads/IMG_0488.jpg)[![IMG](/uploadshttps://www.samfordkindergarten.com.au/IMG_4786-200x300.jpg)](https://www.samfordkindergarten.com.au/uploads/IMG_4786.jpg)
+##
 
 **What's so special about Samford Kindy?**
 
