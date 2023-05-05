@@ -8,7 +8,7 @@ type = "page"
 weight = 7
 +++
 
-##
+## ![](/uploads/IMG_4786-200x300.jpg)![](/uploads/IMG_0488-300x225.jpg)
 
 **What's so special about Samford Kindy?**
 
