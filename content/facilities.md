@@ -23,3 +23,5 @@ In 2017 we were fortunate to receive a government grant for the renovation of ou
 In 2021, our Parent community helped us plant native trees and shrubs to increase our native flora and fauna and  our vegetable gardens have been producing wonderful vegetables each year.
 
 We also keep stingless bees and in 2023 we are planning to add a frog hotel to our outdoor environment - watch this space!
+
+![](/uploads/IMG_20230504_130059.jpg)![](/uploads/IMG_2879.jpg)![](/uploads/P1010423.jpg)
