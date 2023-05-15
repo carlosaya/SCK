@@ -5,7 +5,6 @@ date = "2018-06-17T11:50:09+00:00"
 gallery = [ ]
 tags = [ ]
 title = "Facilities"
-_template = "default"
 
 [menu.main]
 weight = 4
@@ -20,7 +19,5 @@ We continue to rejuvenate our outdoor environment.
 In 2021, our Parent community helped us plant native trees and shrubs to increase our native flora and fauna and  our vegetable gardens have been producing wonderful vegetables each year.
 
 In 2016 we were fortunate to receive a Road safety grant to build a textured bike path and begin a road safety program with the children.
-
-[![IMG](https://www.samfordkindergarten.com.au/uploads/IMG_9917-300x225.jpg)](https://www.samfordkindergarten.com.au/uploads/IMG_9917.jpg)[![IMG](https://www.samfordkindergarten.com.au/uploads/IMG_9916-300x225.jpg)](https://www.samfordkindergarten.com.au/uploads/IMG_9916.jpg)[![img](https://www.samfordkindergarten.com.au/uploads/IMG_0313-300x225.jpg)](https://www.samfordkindergarten.com.au/uploads/IMG_0313.jpg)[![img](https://www.samfordkindergarten.com.au/uploads/IMG_0317-300x225.jpg)](https://www.samfordkindergarten.com.au/uploads/IMG_0317.jpg)[![img](https://www.samfordkindergarten.com.au/uploads/IMG_2879-300x225.jpg)](https://www.samfordkindergarten.com.au/uploads/IMG_2879.jpg)[![img](https://www.samfordkindergarten.com.au/uploads/IMG_2899-225x300.jpg)](https://www.samfordkindergarten.com.au/uploads/IMG_2899.jpg)[![p1010565](https://www.samfordkindergarten.com.au/uploads/P1010565-300x225.jpg)](https://www.samfordkindergarten.com.au/uploads/P1010565.jpg)[![p1010596](https://www.samfordkindergarten.com.au/uploads/P1010596-225x300.jpg)](https://www.samfordkindergarten.com.au/uploads/P1010596.jpg)
 
 In 2017 we were fortunate to receive a government grant for the renovation of our creek area and the creation of a mud kitchen. This project started and finished in September and since then the children have been enjoying playing in the mud kitchen. So much fun!!
