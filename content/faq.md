@@ -24,7 +24,7 @@ Have you seen our backyard and playground?  It's great!
 
 **Why is your motto “It takes a village?”**
 
-We understand and embrace that we are part of a Kindy, Samford, and the greater Community. We encourage community involvement in our centre through parents, grandparents, incursions from our local community- for example Anzac Day Police, Rural fire, waterbugs, native bees, reptiles, bead making.
+We understand and embrace that we are part of a Kindy, Samford, and the greater Community. We encourage community involvement in our centre through parents, grandparents, incursions from our local community- for example Anzac Day RSL representatives, Rural fire, children's theatre, waterbugs, reptiles and bead making workshops.
 
 We work together with our parent and wider community for the benefit of our Kindy children.
 
@@ -32,9 +32,9 @@ We work together with our parent and wider community for the benefit of our Kind
 
 **How is Samford Kindy different from regular daycare centres?**
 
-We are a non for profit Community Kindergarten affiliated with C& K.
+We are a not for profit Community Kindergarten affiliated with C\&K.
 
-We have children attend Kindy the year before Prep. Each group has 22 children that attend a 5 day fortnight. Your child will attend Kindy with the same teacher, teaching assistant and classmates every day, and parents also get to know each other.
+We have children attend Kindy the year before Prep. Each group has 22 children that attend either 2 days a week or 5 days a fortnight. Your child will attend Kindy with the same teacher, teaching assistant and classmates every day, and parents also get to know each other.
 
 This provides a really grounded and welcoming environment for your child to play and learn in, with plenty of time for hugs and laughter. By the end of the year, your child will have 21 great friends and often parents do too!
 
