@@ -15,13 +15,19 @@ weight = 3
 
 Diploma of Teaching Early Childhood
 
+![](/uploads/555A6168.JPG)
+
 **Mrs Tanya Donaghey** – Teaching Assistant Yellow Group
 
 Certificate III in Education Support
 
+![](/uploads/555A6162.JPG)
+
 **Mrs Justine McCabe** – Teaching Assistant Blue Group
 
 Diploma Montessori Method of Education
+
+![](/uploads/555A7680.JPG)
 
 ### Education
 
