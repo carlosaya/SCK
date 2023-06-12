@@ -9,7 +9,7 @@ type = "page"
 weight = 3
 +++
 
-### Staff of Samford Community Kindergarten
+### Teaching staff at Samford Community Kindergarten
 
 **Mrs Sue Meek** – Nominated Supervisor/Director/Teacher Yellow and Blue Groups
 
