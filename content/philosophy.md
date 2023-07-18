@@ -11,8 +11,6 @@ weight = 2
 
 # Samford Community Kindergarten Philosophy
 
-![img](/uploadshttps://www.samfordkindergarten.com.au/IMG_0840-1-225x300.jpg)![](/uploadshttps://www.samfordkindergarten.com.au/P1040678-300x225.jpg)![](/uploadshttps://www.samfordkindergarten.com.au/P1040650-300x225.jpg)
-
 The team at Samford Kindergarten believe that childhood is a unique time of life to be valued and enjoyed. Children develop their sense of belonging by celebrating the richness of the history of our Kindergarten, and the connections the centre has with community past, present and future.
 
 * Our semi-rural environment provides us with the unique opportunity to embrace country life with strong community involvement.
