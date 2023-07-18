@@ -13,4 +13,4 @@ ABN 28 734 750 875
 | Email |             admin@samfordkindergarten.com.au |
 
 |----------|-------------------------------------------------------------------------------:|
-| Facebook|      http://www.facebook.com/SamfordCommunityKindergarten |
+| Facebook|      [http://www.facebook.com/SamfordCommunityKindergarten |](http://www.facebook.com/SamfordCommunityKindergarten "Facebook")
