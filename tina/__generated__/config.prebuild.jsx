@@ -192,38 +192,14 @@ var config_default = defineConfig({
           },
           {
             type: "string",
-            name: "term",
-            label: "Cost per term",
-            isBody: false
-          },
-          {
-            type: "string",
             name: "membership",
             label: "Membership Cost",
             isBody: false
           },
           {
             type: "string",
-            name: "working_bee",
-            label: "Working Bee Levy",
-            isBody: false
-          },
-          {
-            type: "string",
-            name: "working_bee_policy",
-            label: "Working Bee Policy",
-            isBody: false
-          },
-          {
-            type: "string",
-            name: "maintenance",
-            label: "Maintenance Levy",
-            isBody: false
-          },
-          {
-            type: "string",
-            name: "maintenance_policy",
-            label: "Maintenance Policy",
+            name: "enrolment_fee",
+            label: "Enrolment Fee",
             isBody: false
           },
           {
