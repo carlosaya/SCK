@@ -1,24 +1,18 @@
 +++
-banner = ""
-categories = [ ]
 date = "2018-06-21T08:52:14+00:00"
 gallery = [ ]
-tags = [ ]
 title = "Enrol Now"
+banner = ""
+tags = [ ]
+categories = [ ]
 
 [menu.main]
 weight = 6
 +++
 
-**[Click here to Enrol Now for the 2024 - 2027 waiting lists](https://www.samfordkindergarten.com.au/waiting-listv2/)**
+**[Click here to Enrol Now for the 2025 - 2028 waiting lists](https://www.samfordkindergarten.com.au/waiting-listv2/)**
 
-Waiting list places are determined by receipt of both the form and fee (whether this is completed online or in person). The $30 non-refundable waiting list fee **must** be received by Samford Community Kindergarten **within 3 working days** of the form being submitted, otherwise your submission may be considered invalid.
-
-To place your child’s name on the waiting list, parents are asked to complete the online waiting list form and pay a non-refundable waiting list fee of $30 to the following bank account:
-
-**ACCOUNT NAME**: Samford Community Kindergarten\
-**BSB**: 633 000\
-**ACCOUNT**: 146 731 898
+To place your child’s name on the waiting list, parents are asked to complete the online waiting list form.  Waiting list places are determined by receipt of the form (whether this is completed online or in person).
 
 Your child’s name may be placed on the waiting list from the 1st of July of the year following his or her birth (please refer to the table below). Children are enrolled at the Centre in order of placement on the waiting list. As waiting lists are usually long at Samford Kindy, we advise placing children’s names on the list as soon as possible. It is the policy of both Samford Community Kindergarten and C\&K that we do not disclose your child’s number on our waiting list.
 
@@ -40,9 +34,9 @@ If your child is of eligible age, our service may be entitled to claim funding o
 
 Please be advised that Samford Community Kindergarten does not have a sibling policy.
 
-| Child born between: | Attends Kindy | Place on waiting list from: |
-| --- | --- | --- |
-| 1 July 2019 to 30 June 2020 | 2024 | Now Open |
-| 1 July 2020 to 30 June 2021 | 2025 | Now Open |
-| 1 July 2021 to 30 June 2022 | 2026 | Now Open |
-| 1 July 2022 to 30 June 2023 | 2027 | Now Open |
+| Child born between:         | Attends Kindy | Place on waiting list from: |
+| --------------------------- | ------------- | --------------------------- |
+| 1 July 2019 to 30 June 2020 | 2024          | Now Open                    |
+| 1 July 2020 to 30 June 2021 | 2025          | Now Open                    |
+| 1 July 2021 to 30 June 2022 | 2026          | Now Open                    |
+| 1 July 2022 to 30 June 2023 | 2027          | Now Open                    |
