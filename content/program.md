@@ -20,10 +20,10 @@ There are currently 2 groups, each attending 30 hours per fortnight during schoo
 
 | Term | Dates |
 | --- | --- |
-| Term 1, 2023 | 23 January - 31 March |
-| Term 2, 2023 | 17 April - 23 June |
-| Term 3, 2023 | 10 July - 15 September |
-| Term 4, 2023 | 3 October - 8 December |
+| Term 1, 2025 | 28 January - 04 April |
+| Term 2, 2025 | 22 April - 27 June |
+| Term 3, 2025 | 14 July - 19 September |
+| Term 4, 2025 | 7 October - 12 December |
 
 ***
 
