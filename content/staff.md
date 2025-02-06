@@ -23,18 +23,19 @@ Certificate III in Education Support
 
 ![](/uploads/555A6162.JPG)
 
-Mrs Jo Timbs - Educational Leader & Teacher for Blue group
+**Mrs Jo Timbs** - Educational Leader & Teacher for Blue group
 
 Postgraduate Diploma in Education, Diploma Early Childhood Education and Care
 
 ![](/uploads/jo-timbs.jpg)
+
 **Mrs Justine McCabe** – Teaching Assistant for Yellow and Blue group
 
 Diploma of Early Childhood Education and Care
 
 ![](/uploads/555A7680.JPG)
 
-Mrs Shanina Deegan - Inclusion Support for Yellow and Blue group
+**Mrs Shanina Deegan** - Inclusion Support for Yellow and Blue group
 
 Certificate IV, Education Support
 
