@@ -1,9 +1,9 @@
 +++
-categories = [ ]
 date = "2018-06-13T11:09:40.000Z"
-tags = [ ]
-title = "Staff"
 type = "page"
+title = "Staff"
+tags = [ ]
+categories = [ ]
 
 [menu.main]
 weight = 3
@@ -11,23 +11,19 @@ weight = 3
 
 ### Teaching staff at Samford Community Kindergarten
 
-**Mrs Sue Meek** – Nominated Supervisor/Director/Teacher Yellow and Blue Groups
+**Mrs Sue Meek** – Director/Nominated Supervisor & Teacher for Yellow group\
+Diploma of Teaching Early Childhood![](/uploads/555A6168.JPG)
 
-Diploma of Teaching Early Childhood
+**Mrs Tanya Donaghey** – Teaching Assistant Yellow Group\
+Certificate III in Education Support![](/uploads/555A6162.JPG)
 
-![](/uploads/555A6168.JPG)
+Mrs Jo Timbs - Educational Leader & Teacher for Blue group\
+Postgraduate Diploma in Education, Diploma Early Childhood Education and Care![](/uploads/jo-timbs.jpg)
+**Mrs Justine McCabe** – Teaching Assistant for Yellow and Blue group\
+Diploma of Early Childhood Education and Care![](/uploads/555A7680.JPG)
 
-**Mrs Tanya Donaghey** – Teaching Assistant Yellow Group
-
-Certificate III in Education Support
-
-![](/uploads/555A6162.JPG)
-
-**Mrs Justine McCabe** – Teaching Assistant Blue Group
-
-Diploma Montessori Method of Education
-
-![](/uploads/555A7680.JPG)
+Mrs Shanina Deegan - Inclusion Support for Yellow and Blue group\
+Certificate IV, Education Support![](/uploads/shanina_deegan.jpg)
 
 ### Education
 
