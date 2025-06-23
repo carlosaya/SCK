@@ -36,7 +36,7 @@ Please be advised that Samford Community Kindergarten does not have a sibling po
 
 | Child born between:         | Attends Kindy | Place on waiting list from:                                            |
 | --------------------------- | ------------- | ---------------------------------------------------------------------- |
-| 1 July 2019 to 30 June 2021 | 2025          | **[Now Open](https://www.samfordkindergarten.com.au/waiting-listv2/)** |
-| 1 July 2020 to 30 June 2022 | 2026          | **[Now Open](https://www.samfordkindergarten.com.au/waiting-listv2/)** |
-| 1 July 2021 to 30 June 2023 | 2027          | **[Now Open](https://www.samfordkindergarten.com.au/waiting-listv2/)** |
-| 1 July 2022 to 30 June 2024 | 2028          | **[Now Open](https://www.samfordkindergarten.com.au/waiting-listv2/)** |
+| 1 July 2020 to 30 June 2021 | 2025          | **[Now Open](https://www.samfordkindergarten.com.au/waiting-listv2/)** |
+| 1 July 2021 to 30 June 2022 | 2026          | **[Now Open](https://www.samfordkindergarten.com.au/waiting-listv2/)** |
+| 1 July 2022 to 30 June 2023 | 2027          | **[Now Open](https://www.samfordkindergarten.com.au/waiting-listv2/)** |
+| 1 July 2023 to 30 June 2024 | 2028          | **[Now Open](https://www.samfordkindergarten.com.au/waiting-listv2/)** |
