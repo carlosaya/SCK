@@ -10,7 +10,7 @@ categories = [ ]
 weight = 6
 +++
 
-**[Click here to Enrol Now for the 2025 - 2028 waiting lists](https://www.samfordkindergarten.com.au/waiting-listv2/)**
+<strong id="enrol-link-container"></strong>
 
 To place your child’s name on the waiting list, parents are asked to complete the online waiting list form.  Waiting list places are determined by receipt of the form (whether this is completed online or in person).
 
@@ -34,9 +34,87 @@ If your child is of eligible age, our service may be entitled to claim funding o
 
 Please be advised that Samford Community Kindergarten does not have a sibling policy.
 
-| Child born between:         | Attends Kindy | Place on waiting list from:                                            |
-| --------------------------- | ------------- | ---------------------------------------------------------------------- |
-| 1 July 2020 to 30 June 2021 | 2025          | **[Now Open](https://www.samfordkindergarten.com.au/waiting-listv2/)** |
-| 1 July 2021 to 30 June 2022 | 2026          | **[Now Open](https://www.samfordkindergarten.com.au/waiting-listv2/)** |
-| 1 July 2022 to 30 June 2023 | 2027          | **[Now Open](https://www.samfordkindergarten.com.au/waiting-listv2/)** |
-| 1 July 2023 to 30 June 2024 | 2028          | **[Now Open](https://www.samfordkindergarten.com.au/waiting-listv2/)** |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left;">Child born between:</th>
+      <th style="text-align: center;">Attends Kindy</th>
+      <th style="text-align: left;">Place on waiting list from:</th>
+    </tr>
+  </thead>
+  <tbody id="enrolment-table-body">
+    <!-- This will be populated by JavaScript -->
+  </tbody>
+</table>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // --- Configuration ---
+    const numberOfYearsToShow = 6; // Show a 4-year window, e.g., 2024-2027
+    // Use Hugo's `ref` shortcode to create a robust, unbreakable link.
+    // This is a great hybrid approach!
+    const waitingListUrl = "{{< ref "waiting-listv2" >}}";
+
+    // --- DOM Elements ---
+    const tableBody = document.getElementById('enrolment-table-body');
+    const enrolLinkContainer = document.getElementById('enrol-link-container');
+
+    if (!tableBody || !enrolLinkContainer) {
+      console.error('Required DOM elements for enrolment table not found.');
+      return;
+    }
+
+    // --- Date Calculations ---
+    const now = new Date();
+    const currentYear = now.getFullYear();
+    const currentMonth = now.getMonth(); // 0 = Jan, 5 = June, 6 = July
+
+
+    // If it's before July 1st, the previous year's intake is still relevant for display.
+    // Otherwise, we show the current year's intake onwards.
+    let firstYearInTable;
+    if (currentMonth <= 5) { // Before July 1st (Jan-June)
+      firstYearInTable = currentYear - 1;
+    } else { // On or after July 1st (July-Dec)
+      firstYearInTable = currentYear;
+    }
+    const lastYearInTable = firstYearInTable + numberOfYearsToShow - 1;
+
+    // --- Update Top Enrolment Link ---
+    const enrolLink = document.createElement('a');
+    enrolLink.href = waitingListUrl;
+    enrolLink.textContent = `Click here to Enrol Now for the ${firstYearInTable} - ${lastYearInTable-2} waiting lists`;
+    enrolLinkContainer.appendChild(enrolLink);
+
+    // --- Generate Table Rows ---
+    let tableHtml = '';
+    for (let i = 0; i < numberOfYearsToShow; i++) {
+      const kindyYear = firstYearInTable + i;
+      const birthYearStart = kindyYear - 5;
+      const birthYearEnd = birthYearStart + 1;
+
+      // The waiting list for a given Kindy year opens on July 1st, 3 years prior.
+      // e.g., for Kindy 2027, the list opens July 1st, 2024.
+      const waitingListOpenYear = kindyYear - 3;
+
+      // Note: In JS, month is 0-indexed, so 6 = July.
+      const waitingListOpenDate = new Date(waitingListOpenYear, 6, 1);
+
+      let waitingListCellHtml = '';
+      if (now >= waitingListOpenDate) {
+        waitingListCellHtml = `<strong><a href="${waitingListUrl}">Now Open</a></strong>`;
+      } else {
+        waitingListCellHtml = `1 July ${waitingListOpenYear}`;
+      }
+
+      tableHtml += `
+        <tr>
+          <td style="text-align: left;">1 July ${birthYearStart} to 30 June ${birthYearEnd}</td>
+          <td style="text-align: center;">${kindyYear}</td>
+          <td style="text-align: left;">${waitingListCellHtml}</td>
+        </tr>`;
+    }
+
+    tableBody.innerHTML = tableHtml;
+  });
+</script>
