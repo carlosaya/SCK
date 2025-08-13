@@ -50,7 +50,7 @@ Please be advised that Samford Community Kindergarten does not have a sibling po
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     // --- Configuration ---
-    const numberOfYearsToShow = 6; // Show a 4-year window, e.g., 2024-2027
+    const numberOfYearsToShow = 7; // Show a 4-year window, e.g., 2024-2027
     // Use Hugo's `ref` shortcode to create a robust, unbreakable link.
     // This is a great hybrid approach!
     const waitingListUrl = "{{< ref "waiting-listv2" >}}";
@@ -93,9 +93,9 @@ Please be advised that Samford Community Kindergarten does not have a sibling po
       const birthYearStart = kindyYear - 5;
       const birthYearEnd = birthYearStart + 1;
 
-      // The waiting list for a given Kindy year opens on July 1st, 3 years prior.
-      // e.g., for Kindy 2027, the list opens July 1st, 2024.
-      const waitingListOpenYear = kindyYear - 3;
+      // The waiting list for a given Kindy year opens on July 1st, 4 years prior.
+      // e.g., for Kindy 2027, the list opens July 1st, 2023.
+      const waitingListOpenYear = kindyYear - 4;
 
       // Note: In JS, month is 0-indexed, so 6 = July.
       const waitingListOpenDate = new Date(waitingListOpenYear, 6, 1);
