@@ -39,7 +39,7 @@ Diploma of Early Childhood Education and Care
 
 Certificate IV, Education Support
 
-![](/uploads/shanina_deegan.jpg)
+![](/uploads/staff_pics/Shanina.JPG)
 
 ### Education
 
