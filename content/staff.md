@@ -17,11 +17,15 @@ Diploma of Teaching Early Childhood
 
 ![](/uploads/555A6168.JPG)
 
+***
+
 **Mrs Tanya Donaghey** – Teaching Assistant Yellow Group
 
 Certificate III in Education Support
 
 ![](/uploads/555A6162.JPG)
+
+***
 
 **Mrs Jo Timbs** - Educational Leader & Teacher for Blue group
 
@@ -29,17 +33,23 @@ Postgraduate Diploma in Education, Diploma Early Childhood Education and Care
 
 ![](/uploads/Jo.JPG)
 
+***
+
 **Mrs Justine McCabe** – Teaching Assistant for Yellow and Blue group
 
 Diploma of Early Childhood Education and Care
 
 ![](/uploads/555A7680.JPG)
 
+***
+
 **Mrs Shanina Deegan** - Inclusion Support for Yellow and Blue group
 
 Certificate IV, Education Support
 
 ![](/uploads/staff_pics/Shanina.JPG)
+
+***
 
 ### Education
 
