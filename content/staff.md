@@ -27,7 +27,7 @@ Certificate III in Education Support
 
 Postgraduate Diploma in Education, Diploma Early Childhood Education and Care
 
-![](/uploads/jo-timbs.jpg)
+![](/uploads/Jo.JPG)
 
 **Mrs Justine McCabe** – Teaching Assistant for Yellow and Blue group
 
