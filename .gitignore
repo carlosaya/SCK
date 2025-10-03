@@ -1,1 +1,8 @@
 node_modules
+
+# Hugo build output
+public/
+
+# TinaCMS generated files
+tina/__generated__/
+.hugo_build.lock

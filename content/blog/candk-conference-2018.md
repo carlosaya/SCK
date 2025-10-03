@@ -20,4 +20,4 @@ Thank you to our Samford Kindy for supporting us to attend! 
 
 {{< load-photoswipe >}}
 
-{{< gallery dir="/uploads/2018/07/16/" >}}
+{{< gallery dir="/uploads/2018/07/16/" />}}
