@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/carlosaya/SCK#readme",
   "dependencies": {
-    "@tinacms/cli": "^1.11.0",
+    "@tinacms/cli": "^2.0.4",
     "tinacms": "^2.9.0"
   }
 }
