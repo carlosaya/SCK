@@ -1,7 +1,7 @@
 baseurl = "https://www.samfordkindergarten.com.au/"
 defaultContentLanguage = "en"
 googleAnalytics = ""
-languageCode = "en-us"
+locale = "en-US"
 theme = "hugo-universal-theme"
 title = "Samford Kindergarten"
 

@@ -8,11 +8,11 @@
                 <div class="item">
                     <div class="row">
                         <div class="col-sm-5 right">
-                            <h1>{{ .Site.Data.banner.title }}</h1>
-                            <p>{{ .Site.Data.banner.text | safeHTML }}</p>
+                            <h1>{{ hugo.Data.banner.title }}</h1>
+                            <p>{{ hugo.Data.banner.text | safeHTML }}</p>
                         </div>
                         <div class="col-sm-7">
-                            <img class="img-responsive" src="{{ .Site.Data.banner.image }}" alt="">
+                            <img class="img-responsive" src="{{ hugo.Data.banner.image }}" alt="">
                         </div>
                     </div>
                 </div>

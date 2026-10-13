@@ -10,7 +10,7 @@
                 {{ if isset .Site.Params "email" }}
 
                 <div class="heading">
-                  <h3>{{ i18n "contactForm" }}</h3>
+                    <h3>{{ i18n "contactForm" }}</h3>
                 </div>
 
                 <div id="contact-message"></div>
@@ -19,7 +19,7 @@
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
-                              <label for="name">{{ i18n "contactName" }}</label>
+                                <label for="name">{{ i18n "contactName" }}</label>
                                 <input type="text" class="form-control" name="name" id="name" required>
                             </div>
                         </div>
@@ -31,13 +31,14 @@
                         </div>
                         <div class="col-sm-12">
                             <div class="form-group">
-                              <label for="message">{{ i18n "contactMessage" }}</label>
+                                <label for="message">{{ i18n "contactMessage" }}</label>
                                 <textarea id="message" class="form-control" name="message" required></textarea>
                             </div>
                         </div>
 
                         <div class="col-sm-12 text-center">
-                          <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i>{{ i18n "contactSend" }}</button>
+                            <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i>{{ i18n
+                                "contactSend" }}</button>
 
                         </div>
                     </div>
@@ -52,15 +53,15 @@
 
         <div class="col-md-4">
 
-            {{ if isset .Site.Data.config.config "address1" }}
+            {{ if isset hugo.Data.config.config "address1" }}
             <section>
 
-              <h3 class="text-uppercase"> {{ i18n "contactAddrTitle" }}</h3>
+                <h3 class="text-uppercase"> {{ i18n "contactAddrTitle" }}</h3>
 
-              <strong>{{ .Site.Data.config.config.address1 | markdownify }}</strong><br>
-              {{ .Site.Data.config.config.address2 | markdownify }}<br>
-              {{ .Site.Data.config.config.address3 | markdownify }}<br>
-              {{ .Site.Data.config.config.address4 | markdownify }}<br><br>
+                <strong>{{ hugo.Data.config.config.address1 | markdownify }}</strong><br>
+                {{ hugo.Data.config.config.address2 | markdownify }}<br>
+                {{ hugo.Data.config.config.address3 | markdownify }}<br>
+                {{ hugo.Data.config.config.address4 | markdownify }}<br><br>
 
             </section>
 
@@ -74,7 +75,6 @@
 
 
 <iframe
-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3542.9426246841267!2d152.8855030772035!3d-27.37750721278783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9155bb07d11a97%3A0x7a66d945477491dd!2sSamford%20Community%20Kindergarten!5e0!3m2!1sen!2sau!4v1689721008295!5m2!1sen!2sau"
-width=100% height=350 style="border:0;" allowfullscreen="" loading="lazy" position: absolute
-referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3542.9426246841267!2d152.8855030772035!3d-27.37750721278783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9155bb07d11a97%3A0x7a66d945477491dd!2sSamford%20Community%20Kindergarten!5e0!3m2!1sen!2sau!4v1689721008295!5m2!1sen!2sau"
+    width=100% height=350 style="border:0;" allowfullscreen="" loading="lazy" position: absolute
+    referrerpolicy="no-referrer-when-downgrade"></iframe>
