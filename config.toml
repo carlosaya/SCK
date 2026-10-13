@@ -2,12 +2,14 @@ baseurl = "https://www.samfordkindergarten.com.au/"
 defaultContentLanguage = "en"
 googleAnalytics = ""
 languageCode = "en-us"
-paginate = 10
 theme = "hugo-universal-theme"
-themesDir = "./themes"
 title = "Samford Kindergarten"
-[Permalinks]
-blog = "/blog/:year/:month/:day/:filename/"
+
+[pagination]
+  pagerSize = 10
+
+[permalinks]
+  blog = "/blog/:year/:month/:day/:contentbasename/"
 [[menu.main]]
 name = "Home"
 url = "/"

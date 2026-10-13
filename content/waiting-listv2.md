@@ -2,6 +2,7 @@
 date = "2018-07-04T22:08:04+10:00"
 gallery = [ ]
 title = "Waiting List"
+type = "page"
 banner = ""
 tags = [ ]
 categories = [ ]

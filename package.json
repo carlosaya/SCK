@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "tinacms dev -c \"hugo server\"",
+    "build": "tinacms build && hugo --minify",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,7 +20,7 @@
   },
   "homepage": "https://github.com/carlosaya/SCK#readme",
   "dependencies": {
-    "@tinacms/cli": "^1.11.0",
-    "tinacms": "^2.9.0"
+    "@tinacms/cli": "^4.0.1",
+    "tinacms": "^3.12.0"
   }
 }

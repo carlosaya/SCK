@@ -5,6 +5,7 @@ date = "2018-06-17T11:27:58+00:00"
 gallery = [ ]
 tags = [ ]
 title = "Program"
+type = "page"
 
 [menu.main]
 weight = 5

@@ -1,4 +1,4 @@
-{{ if isset .Site.Params.widgets "search" }}
+{{ if and (isset .Site.Params "widgets") (isset .Site.Params.widgets "search") }}
 {{ if .Site.Params.widgets.search }}
 <div class="panel panel-default sidebar-menu">
 

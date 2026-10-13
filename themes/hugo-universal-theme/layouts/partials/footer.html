@@ -13,10 +13,12 @@
         <div class="col-md-4 col-sm-6">
 
             {{ if isset .Site.Params "recent_posts" }} {{ if .Site.Params.recent_posts.enable }}
+            {{ $recentPosts := first 3 (where .Site.RegularPages "Type" "blog") }}
+            {{ if gt (len $recentPosts) 0 }}
             <h4>{{ i18n "recentPosts" }}</h4>
 
             <div class="blog-entries">
-                {{ range first 3 (where .Site.Pages "Type" "blog") }}
+                {{ range $recentPosts }}
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
                         <a href="{{ .Permalink }}">
@@ -35,6 +37,7 @@
             </div>
 
             <hr class="hidden-md hidden-lg">
+            {{ end }}
             {{ end }} {{ end }}
 
         </div>

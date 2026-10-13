@@ -1,5 +1,7 @@
 {{ if isset .Site.Params "recent_posts" }}
 {{ if .Site.Params.recent_posts.enable }}
+{{ $posts := where .Site.RegularPages "Type" "blog" }}
+{{ if gt (len $posts) 0 }}
 <section class="bar background-white no-mb">
     <div class="container">
 
@@ -16,8 +18,7 @@
 
             <div class="row">
 
-                {{ $posts := .Paginate (where .Data.Pages "Type" "blog") }}
-                {{ range first 4 $posts.Pages }}
+                {{ range first 4 $posts }}
                 <div class="col-md-3 col-sm-6">
                     <div class="box-image-text blog">
                         <div class="top">
@@ -65,5 +66,6 @@
     <!-- /.container -->
 </section>
 <!-- /.bar -->
+{{ end }}
 {{ end }}
 {{ end }}

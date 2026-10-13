@@ -3,6 +3,7 @@ categories = [ ]
 date = "2018-07-14T20:56:27+10:00"
 tags = [ ]
 title = "devwl"
+type = "page"
 _template = "default"
 +++
 
