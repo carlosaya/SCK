@@ -35,7 +35,7 @@ Postgraduate Diploma in Education, Diploma Early Childhood Education and Care
 
 ***
 
-**Mrs Justine McCabe** – Teaching Assistant for Yellow and Blue group
+**Mrs Justine McCabe** – Teaching Assistant for Blue group
 
 Diploma of Early Childhood Education and Care
 
@@ -43,7 +43,7 @@ Diploma of Early Childhood Education and Care
 
 ***
 
-**Mrs Shanina Deegan** - Inclusion Support for  Blue group
+**Mrs Shanina Deegan** - Inclusion Support for Blue group
 
 Certificate IV, Education Support
 
