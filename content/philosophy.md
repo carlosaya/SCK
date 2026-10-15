@@ -1,9 +1,9 @@
 +++
-categories = [ ]
 date = "2018-03-18T06:19:50.000Z"
-tags = [ ]
-title = "Philosophy"
 type = "page"
+title = "Philosophy"
+tags = [ ]
+categories = [ ]
 
 [menu.main]
 weight = 2
@@ -11,26 +11,84 @@ weight = 2
 
 # Samford Community Kindergarten Philosophy
 
-The team at Samford Kindergarten believe that childhood is a unique time of life to be valued and enjoyed. Children develop their sense of belonging by celebrating the richness of the history of our Kindergarten, and the connections the centre has with community past, present and future.
+*The team at Samford Kindergarten believes that childhood is a unique time of life to be valued and enjoyed. Children*
 
-* Our semi-rural environment provides us with the unique opportunity to embrace country life with strong community involvement.
-* We acknowledge that children come from diverse backgrounds and bring unique strengths, experiences and understanding of their world. It is these qualities that help give children their sense of being.
-* Play can provide insights into children’s interests, skills, beliefs and joys. A calm and nurturing atmosphere is conducive to fostering positive self-esteem and developing life skills, which in turn, help children develop their sense of becoming an individual.
-* All educators provide a safe, caring and engaging environment where children are encouraged to make decisions about their own learning. Children are supported to develop resilience and the skills to manage challenges and new situations with confidence.
-* At Samford Kindergarten we have created a nature play environment that provides authentic learning experiences. We utilise our unique environment which also creates a culture of respect and appreciation of our natural world and sustainable practices.
+*develop their sense of belonging by celebrating the richness of the history of our Kindergarten, and the connections*
 
-We believe that:
+*we have with community past, present and future.*
 
-* children thrive in a safe and flexible environment, where exploration, discovery, curiosity and play are the main focus and where ‘hands-on’ experiences are valued.
-* we embrace children's individuality and actively draw inspiration from them in our daily program.
-* Due to the rapidly changing world, in which children live, we encourage and promote listening, negotiating, compromising, cooperating, sharing, respecting self and others, risk taking, problem solving and resilience.
+**The rights and best interests of the child are paramount.**
 
-These skills are essential in developing autonomous and competent life-long learners.
+Play can provide insights into children’s interests, skills, beliefs and joys. A calm and nurturing atmosphere is
 
-We work together in collaboration with families and acknowledge that they are their child's first and most important teachers. We encourage respectful relations with families and support strong connections built on trust and a sense of belonging.
+conducive to fostering positive self-esteem and developing life skills, which in turn, help children develop their sense
 
-As advocates for early childhood education, the qualified staff at Samford Kindergarten ensure that the C\&K policies are followed. Staff engage in ongoing professional development and critical reflection and commitment to continual professional growth. We foster a collaborative approach where all staff are respected as individuals and are valued as part of the team. We work closely to ensure that respectful relationships are built and maintained. The Early Years Learning Framework, Queensland Kindergarten Learning Guidelines and National Quality Standards are embedded in our daily practice to ensure that children receive the highest quality education and care.
+of becoming an individual.
 
-As a community of learners, we respectfully acknowledge the Wakka Wakka people as the traditional owners of the land. We embrace children's diversity as well as the culture of others in our community and the wider world.
+**Children are successful, competent and capable learners.**
 
-*Next review to occur February 2024.*
+Educators provide a safe, caring and engaging environment where children are encouraged to make decisions about
+
+their own learning. Children are supported to explore, discover and play with a ‘hands-on’ approach whilst developing
+
+resilience and the skills to manage challenges and new situations with confidence.
+
+Due to the rapidly changing world, in which children live, we encourage and promote listening, negotiating,
+
+compromising, cooperating, sharing, respecting self and others, risk taking, problem solving and resilience – essential
+
+skills in developing autonomous and competent life-long learners.
+
+**We value slow pedagogy and honour this special time in childhood**
+
+This approach prioritises connection, relationships and unhurried time which allows children to wonder, explore and
+
+learn at their own pace. Our rich, open-ended spaces nurture children’s intrinsic motivation to learn and we resist time
+
+pressures that prioritise measurable outcomes.
+
+Equity, inclusion and diversity underpin the framework.
+
+We acknowledge that children come from diverse backgrounds and bring unique strengths, experiences and
+
+understanding of their world. It is these qualities that help give children their sense of being and we draw inspiration
+
+from them to guide our daily program.
+
+**Australia’s Aboriginal and Torres Strait Islander cultures are valued.**
+
+We respectfully acknowledge the Wakka Wakka people as the traditional owners of the land. We embrace children’s
+
+diversity as well as the culture of others in our community and the wider world.
+
+We work and play in a beautiful, semi-rural environment which provides us with the unique opportunity to embrace
+
+country life and connect with nature, with strong community involvement.
+
+**The role of parents and families is respected and supported.**
+
+We collaborate with families and acknowledge that they are their child’s first and most important teachers. We
+
+encourage respectful relations with families and support strong connections built on trust and a sense of belonging.
+
+**Best practice is expected in the provision of education and care services.**
+
+At Samford Kindergarten we have created a nature play environment that provides authentic learning experiences.
+
+We utilise our unique environment which also creates respect and appreciation of our natural world, sustainable
+
+practices and First Nations culture. Our cohesive team of qualified staff ensure the C\&K policies are followed, and
+
+engage in ongoing professional development, continual professional growth and critical reflection. All staff are
+
+respected as individuals, and we work closely to ensure respectful relationships are built and maintained.
+
+
+
+*Samford Kindergarten operates within the structure of the Education and Care Services National Law Act and the*
+
+*Australian Children’s Education \&amp; Care Quality Authority National Quality Framework. The Queensland Kindergarten*
+
+*Learning Guidelines and Early Years Learning Framework are embedded in our daily practice to ensure that children*
+
+*receive the highest quality of education and care.*
