@@ -43,7 +43,7 @@ Diploma of Early Childhood Education and Care
 
 ***
 
-**Mrs Shanina Deegan** - Inclusion Support for Yellow and Blue group
+**Mrs Shanina Deegan** - Inclusion Support for  Blue group
 
 Certificate IV, Education Support
 
